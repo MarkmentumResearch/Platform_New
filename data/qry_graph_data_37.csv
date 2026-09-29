@@ -1,4 +1,1 @@
 Ticker,Ticker_name,Category,Date,ST_Trend,MT_Trend,ST_Trend_Change,MT_Trend_Change,prem_disc,ChaseScore,model_score
-HPE,HEWLETT PACKARD ENTERPRISE COMPANY,Information Technology,2026-09-25,0.0664,0.0647,0.0236,0.0217,-0.2683,-0.2701,18.0
-AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-09-25,0.0389,0.024,0.0128,0.0576,-0.1379,-0.1528,23.0
-FTNT,"FORTINET, INC.",Information Technology,2026-09-25,0.0381,0.0377,0.0042,0.0055,-0.0427,-0.0431,23.0

@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score
-NVR,"NVR, INC.",Consumer Discretionary,2026-09-25,-77.0
-META,"META PLATFORMS, INC.",Communication Services,2026-09-25,-70.0
-TECH,BIO-TECHNE ,Health Care,2026-09-25,-69.0
-RVTY,"REVVITY, INC.",Health Care,2026-09-25,-67.0
-CVNA,CARVANA CO.,Consumer Discretionary,2026-09-25,-62.0
-EWL,ISHARES:MSCI SWITZERLAND,Foreign,2026-09-25,-61.0
-FICO,FAIR ISAAC ,Information Technology,2026-09-25,-60.0
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-09-25,-57.0
-HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-09-25,-53.0
-ABBV,ABBVIE INC.,Health Care,2026-09-25,-52.0
+HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-09-28,-83.0
+CVNA,CARVANA CO.,Consumer Discretionary,2026-09-28,-64.0
+GLD,SPDR GOLD,Commodities,2026-09-28,-63.0
+TMO,THERMO FISHER SCIENTIFIC INC.,Health Care,2026-09-28,-61.0
+TNX,10 Y TSY YLD NDX,Yields,2026-09-28,-61.0
+FICO,FAIR ISAAC ,Information Technology,2026-09-28,-60.0
+META,"META PLATFORMS, INC.",Communication Services,2026-09-28,-60.0
+SWKS,"SKYWORKS SOLUTIONS, INC.",Information Technology,2026-09-28,-60.0
+CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-09-28,-55.0
+UNG,UNITED STATES NAT GAS,Commodities,2026-09-28,-54.0
