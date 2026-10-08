@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-CHRW,"C.H. ROBINSON WORLDWIDE, INC.",Industrials,2026-10-06,-0.1437
-INTC,INTEL ,Information Technology,2026-10-06,-0.0572
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-06,-0.0511
-CALM,"CAL-MAINE FOODS, INC.",MR Discretion,2026-10-06,-0.049
-KLAC,KLA ,Information Technology,2026-10-06,-0.0456
-CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-10-06,-0.0451
-TER,"TERADYNE, INC.",Information Technology,2026-10-06,-0.0417
-CRM,"SALESFORCE, INC.",Information Technology,2026-10-06,-0.0413
-LRCX,LAM RESEARCH ,Information Technology,2026-10-06,-0.0391
-BBY,"BEST BUY CO., INC.",Consumer Discretionary,2026-10-06,-0.0355
+CHRW,"C.H. ROBINSON WORLDWIDE, INC.",Industrials,2026-10-07,-0.1429
+TER,"TERADYNE, INC.",Information Technology,2026-10-07,-0.083
+SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-07,-0.0642
+CALM,"CAL-MAINE FOODS, INC.",MR Discretion,2026-10-07,-0.0595
+TXT,TEXTRON INC.,Industrials,2026-10-07,-0.0548
+MOS,THE MOSAIC COMPANY,Materials,2026-10-07,-0.0522
+INTC,INTEL ,Information Technology,2026-10-07,-0.052
+LRCX,LAM RESEARCH ,Information Technology,2026-10-07,-0.0517
+JBHT,"J. B. HUNT TRANSPORT SERVICES, INC.",Industrials,2026-10-07,-0.0494
+CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-10-07,-0.0491
