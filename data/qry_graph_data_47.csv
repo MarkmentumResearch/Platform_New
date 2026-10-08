@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-10-07,-0.2787
-FISV,"FISERV, INC.",Financials,2026-10-07,-0.2346
-ZTS,ZOETIS INC.,Health Care,2026-10-07,-0.224
-STLA,STELLANTIS NV,MR Discretion,2026-10-07,-0.2082
-IT,"GARTNER, INC.",Information Technology,2026-10-07,-0.2051
-STZ,"CONSTELLATION BRANDS, INC.",Consumer Staples,2026-10-07,-0.2015
-INTU,INTUIT INC.,Information Technology,2026-10-07,-0.1986
-FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,2026-10-07,-0.1889
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-10-07,-0.1839
-ADSK,"AUTODESK, INC.",Information Technology,2026-10-07,-0.1837
+TTD,"THE TRADE DESK, INC.",Communication Services,2026-10-07,-0.172
+PTC,PTC INC.,Information Technology,2026-10-07,-0.1374
+FISV,"FISERV, INC.",Financials,2026-10-07,-0.1223
+ZTS,ZOETIS INC.,Health Care,2026-10-07,-0.1121
+INTU,INTUIT INC.,Information Technology,2026-10-07,-0.0959
+STLA,STELLANTIS NV,MR Discretion,2026-10-07,-0.0921
+IT,"GARTNER, INC.",Information Technology,2026-10-07,-0.0887
+STZ,"CONSTELLATION BRANDS, INC.",Consumer Staples,2026-10-07,-0.0859
+ADSK,"AUTODESK, INC.",Information Technology,2026-10-07,-0.0849
+SNPS,"SYNOPSYS, INC.",Information Technology,2026-10-07,-0.0792
