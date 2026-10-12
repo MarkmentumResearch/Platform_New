@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-TMUS,"T-MOBILE US, INC.",Communication Services,2026-10-09,-0.1327
-T,AT&T INC.,Communication Services,2026-10-09,-0.1085
-VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-10-09,-0.1015
-HPQ,HP INC.,Information Technology,2026-10-09,-0.0693
-VXN,CBOE NASDAQ MKT VOL NDX,Volatility,2026-10-09,-0.0651
-CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,2026-10-09,-0.0574
-FICO,FAIR ISAAC ,Information Technology,2026-10-09,-0.0563
-SWKS,"SKYWORKS SOLUTIONS, INC.",Information Technology,2026-10-09,-0.0545
-MOS,THE MOSAIC COMPANY,Materials,2026-10-09,-0.0507
-DE,DEERE & COMPANY,Industrials,2026-10-09,-0.0483
+CIEN,CIENA CORPORATION,Information Technology,2026-10-12,-0.0995
+LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-10-12,-0.0978
+COHR,COHERENT CORP.,Information Technology,2026-10-12,-0.0787
+CVNA,CARVANA CO.,Consumer Discretionary,2026-10-12,-0.0662
+MP,MP MATERIALS CORP,MR Discretion,2026-10-12,-0.0603
+GLW,CORNING INC.,Information Technology,2026-10-12,-0.06
+SNDK,SANDISK CORPORATION,Information Technology,2026-10-12,-0.0597
+MRNA,"MODERNA, INC.",Health Care,2026-10-12,-0.05
+AKAM,"AKAMAI TECHNOLOGIES, INC.",Information Technology,2026-10-12,-0.0496
+MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,2026-10-12,-0.0484
