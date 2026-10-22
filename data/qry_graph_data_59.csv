@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-CTVA,"CORTEVA, INC.",Materials,2026-10-21,-0.8381
-LRCX,LAM RESEARCH ,Information Technology,2026-10-21,-0.2627
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-21,-0.2553
-INTC,INTEL ,Information Technology,2026-10-21,-0.244
-SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-21,-0.241
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-10-21,-0.2298
-FLEX,FLEX LTD.,Information Technology,2026-10-21,-0.2245
-SNDK,SANDISK CORPORATION,Information Technology,2026-10-21,-0.2239
-COHR,COHERENT CORP.,Information Technology,2026-10-21,-0.1915
-KLAC,KLA ,Information Technology,2026-10-21,-0.1857
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-21,-0.2444
+SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-21,-0.2381
+INTC,INTEL ,Information Technology,2026-10-21,-0.2268
+FLEX,FLEX LTD.,Information Technology,2026-10-21,-0.2158
+SNDK,SANDISK CORPORATION,Information Technology,2026-10-21,-0.2079
+LRCX,LAM RESEARCH ,Information Technology,2026-10-21,-0.2061
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-10-21,-0.2003
+MOS,THE MOSAIC COMPANY,Materials,2026-10-21,-0.1834
+COHR,COHERENT CORP.,Information Technology,2026-10-21,-0.1747
+WDC,WESTERN DIGITAL ,Information Technology,2026-10-21,-0.1671

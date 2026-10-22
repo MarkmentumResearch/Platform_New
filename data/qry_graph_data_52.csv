@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-HAS,"HASBRO, INC.",Consumer Discretionary,2026-10-21,0.1525
+HAS,"HASBRO, INC.",Consumer Discretionary,2026-10-21,0.1543
 CRL,CHARLES RIVER LABORATORIES,Health Care,2026-10-21,0.149
-SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-21,0.1346
-MRNA,"MODERNA, INC.",Health Care,2026-10-21,0.1284
-WDC,WESTERN DIGITAL ,Information Technology,2026-10-21,0.1256
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-10-21,0.1065
-DDOG,"DATADOG, INC.",Information Technology,2026-10-21,0.0996
+WDC,WESTERN DIGITAL ,Information Technology,2026-10-21,0.1401
+SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-21,0.1389
+MRNA,"MODERNA, INC.",Health Care,2026-10-21,0.1275
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-10-21,0.1246
+DDOG,"DATADOG, INC.",Information Technology,2026-10-21,0.1051
 EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-10-21,0.0967
-EFX,EQUIFAX INC.,Industrials,2026-10-21,0.0888
-ON,ON SEMICONDUCTOR ,Information Technology,2026-10-21,0.0851
+TWLO,TWILIO INC. ,Information Technology,2026-10-21,0.0913
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-21,0.0906
