@@ -618,7 +618,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_qtd_change,current_model_s
 2026-10-21,WAT,WATERS ,Health Care,Health Care,-10.0,-17.0,-7.0
 2026-10-21,WDAY,"WORKDAY, INC.",Information Technology,Information Technology,-14.0,-40.0,-26.0
 2026-10-21,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,-34.0,-0.0,34.0
-2026-10-21,WEAT,TEUCRIUM:WHEAT,,Commodities,5.0,4.0,-1.0
+2026-10-21,WEAT,TEUCRIUM:WHEAT,,Commodities,-16.0,-17.0,-1.0
 2026-10-21,WEC,"WEC ENERGY GROUP, INC.",Utilities,Utilities,-60.0,-60.0,0.0
 2026-10-21,WELL,WELLTOWER INC.,Real Estate,Real Estate,-32.0,-14.0,18.0
 2026-10-21,WFC,WELLS FARGO & COMPANY,Financials,Financials,-46.0,-5.0,41.0
@@ -633,17 +633,17 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_qtd_change,current_model_s
 2026-10-21,WYNN,"WYNN RESORTS, LIMITED",Consumer Discretionary,Consumer Discretionary,-13.0,20.0,33.0
 2026-10-21,XEL,XCEL ENERGY INC.,Utilities,Utilities,-26.0,-26.0,0.0
 2026-10-21,XES,SPDR S&P OIL&GAS E&S,,MR Discretion,51.0,36.0,-15.0
-2026-10-21,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,-32.0,-5.0,27.0
+2026-10-21,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,-20.0,7.0,27.0
 2026-10-21,XLC,SEL SECTOR:COMM SVC SPDR,,Sector & Style ETFs,-7.0,4.0,11.0
-2026-10-21,XLE,SEL SECTOR:ENERGY SPDR,,Sector & Style ETFs,-30.0,-46.0,-16.0
+2026-10-21,XLE,SEL SECTOR:ENERGY SPDR,,Sector & Style ETFs,-9.0,-25.0,-16.0
 2026-10-21,XLF,SEL SECTOR:FINL S SPDR,,Sector & Style ETFs,-38.0,-2.0,36.0
 2026-10-21,XLI,SEL SECTOR:INDUST SPDR,,Sector & Style ETFs,-52.0,12.0,64.0
-2026-10-21,XLK,SEL SECTOR:TECH SPDR,,Sector & Style ETFs,-36.0,-30.0,6.0
+2026-10-21,XLK,SEL SECTOR:TECH SPDR,,Sector & Style ETFs,22.0,28.0,6.0
 2026-10-21,XLP,SEL SECTOR:C STP SPDR,,Sector & Style ETFs,-81.0,-57.0,24.0
 2026-10-21,XLRE,SEL SECTOR:RL EST SPDR,,Sector & Style ETFs,-34.0,-10.0,24.0
-2026-10-21,XLU,SEL SECTOR:UTIL SPDR,,Sector & Style ETFs,-55.0,-55.0,0.0
+2026-10-21,XLU,SEL SECTOR:UTIL SPDR,,Sector & Style ETFs,-60.0,-60.0,0.0
 2026-10-21,XLV,SEL SECTOR:H CARE SPDR,,Sector & Style ETFs,-113.0,-41.0,72.0
-2026-10-21,XLY,SEL SECTOR:C DSC SPDR,,Sector & Style ETFs,-35.0,-23.0,12.0
+2026-10-21,XLY,SEL SECTOR:C DSC SPDR,,Sector & Style ETFs,-19.0,-7.0,12.0
 2026-10-21,XOM,EXXON MOBIL ,Energy,Energy,-70.0,-39.0,31.0
 2026-10-21,XOP,SPDR S&P OIL&GAS EXP,,MR Discretion,-40.0,-31.0,9.0
 2026-10-21,XYL,XYLEM INC.,Industrials,Industrials,23.0,15.0,-8.0
