@@ -466,7 +466,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-10-22,POWA,INVESCO BLOOMBERG PRICING POWER,,Sector & Style ETFs,7.0,-2.0,-9.0
 2026-10-22,PPG,"PPG INDUSTRIES, INC.",Materials,Materials,-13.0,-7.0,6.0
 2026-10-22,PPL,PPL ,Utilities,Utilities,-15.0,-35.0,-20.0
-2026-10-22,PPLT,ABRDN:PHYSICAL PLATINUM,,Commodities,-60.0,-102.0,-42.0
+2026-10-22,PPLT,ABRDN:PHYSICAL PLATINUM,,Commodities,-49.0,-91.0,-42.0
 2026-10-22,PRU,"PRUDENTIAL FINANCIAL, INC.",Financials,Financials,44.0,38.0,-6.0
 2026-10-22,PSA,PUBLIC STORAGE.,Real Estate,Real Estate,0.0,-2.0,-2.0
 2026-10-22,PSX,PHILLIPS 66,Energy,Energy,-38.0,-8.0,30.0
