@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-T,AT&T INC.,Communication Services,2026-10-21,-0.0645
-DXCM,"DEXCOM, INC.",Health Care,2026-10-21,-0.0639
-NFLX,"NETFLIX, INC.",Communication Services,2026-10-21,-0.0531
-CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-10-21,-0.0516
-UNG,UNITED STATES NAT GAS,Commodities,2026-10-21,-0.0505
-EXPE,"EXPEDIA GROUP, INC.",Consumer Discretionary,2026-10-21,-0.0503
-SBAC,SBA COMMUNICATIONS ,Real Estate,2026-10-21,-0.0418
-GLATF,GLOBAL ATOMIC ,MR Discretion,2026-10-21,-0.04
-DASH,"DOORDASH, INC.",Consumer Discretionary,2026-10-21,-0.0377
-VIX,CBOE MKT VOLATILITY IDX,Volatility,2026-10-21,-0.0364
+MRNA,"MODERNA, INC.",Health Care,2026-10-22,-0.1757
+COHR,COHERENT CORP.,Information Technology,2026-10-22,-0.1251
+LRCX,LAM RESEARCH ,Information Technology,2026-10-22,-0.1176
+LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-10-22,-0.1154
+FLEX,FLEX LTD.,Information Technology,2026-10-22,-0.1108
+CIEN,CIENA CORPORATION,Information Technology,2026-10-22,-0.1071
+GEV,GE VERNOVA INC.,Industrials,2026-10-22,-0.1064
+TER,"TERADYNE, INC.",Information Technology,2026-10-22,-0.1063
+VST,VISTRA CORP.,Utilities,2026-10-22,-0.0983
+KLAC,KLA ,Information Technology,2026-10-22,-0.0955
