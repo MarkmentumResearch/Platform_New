@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-INTC,INTEL ,Information Technology,2026-10-22,389.86
-NVDA,NVIDIA ,Information Technology,2026-10-22,383.29
-NFLX,"NETFLIX, INC.",Communication Services,2026-10-22,256.74
-T,AT&T INC.,Communication Services,2026-10-22,204.62
-EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-10-22,201.95
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-10-22,198.44
-RIG,TRANSOCEAN LTD,MR Discretion,2026-10-22,187.24
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-10-22,170.28
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-10-22,169.2
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-10-22,159.24
+INTC,INTEL ,Information Technology,2026-10-22,393.82
+NVDA,NVIDIA ,Information Technology,2026-10-22,389.63
+NFLX,"NETFLIX, INC.",Communication Services,2026-10-22,260.6
+T,AT&T INC.,Communication Services,2026-10-22,212.67
+EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-10-22,207.08
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-10-22,198.63
+RIG,TRANSOCEAN LTD,MR Discretion,2026-10-22,193.44
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-10-22,170.91
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-10-22,170.05
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-10-22,163.86

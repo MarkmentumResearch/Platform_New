@@ -1,7 +1,7 @@
 Ticker,Ticker_name,Category,Date,model_score_day_change,current_model_score,previous_model_score
-ENZL,ISHARES:MSCI NEW ZLND,Foreign,2026-10-22,77.0,40.0,-37.0
 CRWD,"CROWDSTRIKE HOLDINGS, INC.",Information Technology,2026-10-22,71.0,54.0,-17.0
 DBA,INVESCO DB MS AGRI,Commodities,2026-10-22,68.0,47.0,-21.0
+ENZL,ISHARES:MSCI NEW ZLND,Foreign,2026-10-22,66.0,29.0,-37.0
 DGX,QUEST DIAGNOSTICS INC.,Health Care,2026-10-22,62.0,2.0,-60.0
 ICL,ICL GROUP LTD,MR Discretion,2026-10-22,62.0,32.0,-30.0
 HRL,HORMEL FOODS ,Consumer Staples,2026-10-22,60.0,-24.0,-84.0

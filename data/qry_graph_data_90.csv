@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
-ROL,"ROLLINS, INC.",Industrials,2026-10-22,-70.0,-6.2
+ROL,"ROLLINS, INC.",Industrials,2026-10-22,-70.0,-6.4
 HON,HONEYWELL INTERNATIONAL INC.,Industrials,2026-10-22,-57.0,-5.4
 TSCO,TRACTOR SUPPLY COMPANY,Consumer Discretionary,2026-10-22,-56.0,-7.0
-UNP,UNION PACIFIC ,Industrials,2026-10-22,-54.0,-6.6
-MMM,3M COMPANY,Industrials,2026-10-22,-53.0,-4.0
-ICE,"INTERCONTINENTAL EXCHANGE, INC.",Financials,2026-10-22,-49.0,-4.0
+UNP,UNION PACIFIC ,Industrials,2026-10-22,-54.0,-6.8
+MMM,3M COMPANY,Industrials,2026-10-22,-53.0,-4.1
+ICE,"INTERCONTINENTAL EXCHANGE, INC.",Financials,2026-10-22,-49.0,-3.8
 DOW,DOW INC.,Materials,2026-10-22,-46.0,-5.3
-IT,"GARTNER, INC.",Information Technology,2026-10-22,-43.0,-8.7
-NOW,"SERVICENOW, INC.",Information Technology,2026-10-22,-43.0,-5.8
-CPRT,"COPART, INC.",Industrials,2026-10-22,-36.0,-6.8
+NOW,"SERVICENOW, INC.",Information Technology,2026-10-22,-43.0,-6.0
+CPRT,"COPART, INC.",Industrials,2026-10-22,-36.0,-6.9
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,2026-10-22,-35.0,-6.5

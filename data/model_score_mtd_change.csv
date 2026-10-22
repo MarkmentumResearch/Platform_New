@@ -24,7 +24,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,ALL,THE ALLSTATE ,Financials,Financials,-39.0,-39.0,0.0
 2026-10-22,ALLE,ALLEGION PUBLIC LIMITED COMPANY,Industrials,Industrials,-37.0,-50.0,-13.0
 2026-10-22,AMAT,"APPLIED MATERIALS, INC.",Information Technology,Information Technology,-33.0,-11.0,22.0
-2026-10-22,AMCR,AMCOR PLC,Materials,Materials,-6.0,-2.0,4.0
+2026-10-22,AMCR,AMCOR PLC,Materials,Materials,-13.0,-9.0,4.0
 2026-10-22,AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,Information Technology,-25.0,-15.0,10.0
 2026-10-22,AME,"AMETEK, INC.",Industrials,Industrials,0.0,14.0,14.0
 2026-10-22,AMGN,AMGEN INC.,Health Care,Health Care,-40.0,8.0,48.0
@@ -34,7 +34,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,ANET,"ARISTA NETWORKS, INC.",Information Technology,Information Technology,17.0,-7.0,-24.0
 2026-10-22,AON,AON PLC,Financials,Financials,-20.0,-20.0,0.0
 2026-10-22,AOS,A. O. SMITH ,Industrials,Industrials,-44.0,4.0,48.0
-2026-10-22,APA,APA ,Energy,Energy,-42.0,-28.0,14.0
+2026-10-22,APA,APA ,Energy,Energy,-16.0,-2.0,14.0
 2026-10-22,APD,"AIR PRODUCTS AND CHEMICALS, INC.",Materials,Materials,-44.0,-9.0,35.0
 2026-10-22,APH,AMPHENOL ,Information Technology,Information Technology,-39.0,-13.0,26.0
 2026-10-22,APO,"APOLLO GLOBAL MANAGEMENT, INC.",Financials,Financials,-59.0,-13.0,46.0
@@ -42,7 +42,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,APTV,APTIV PLC,Consumer Discretionary,Consumer Discretionary,-62.0,-14.0,48.0
 2026-10-22,ARE,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",Real Estate,Real Estate,9.0,14.0,5.0
 2026-10-22,ARES,ARES MANAGEMENT CORP,Financials,Financials,14.0,26.0,12.0
-2026-10-22,ASC,ARDMORE SHIPPING ,,MR Discretion,5.0,11.0,6.0
+2026-10-22,ASC,ARDMORE SHIPPING ,,MR Discretion,0.0,6.0,6.0
 2026-10-22,ATO,ATMOS ENERGY ,Utilities,Utilities,-37.0,-20.0,17.0
 2026-10-22,AVGO,BROADCOM INC.,Information Technology,Information Technology,19.0,25.0,6.0
 2026-10-22,AVY,AVERY DENNISON ,Materials,Materials,-40.0,-14.0,26.0
@@ -190,7 +190,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,ELV,"ELEVANCE HEALTH, INC.",Health Care,Health Care,-17.0,6.0,23.0
 2026-10-22,EME,"EMCOR GROUP, INC.",Industrials,Industrials,9.0,-7.0,-16.0
 2026-10-22,EMR,EMERSON ELECTRIC CO.,Industrials,Industrials,-16.0,-22.0,-6.0
-2026-10-22,ENZL,ISHARES:MSCI NEW ZLND,,Foreign,36.0,40.0,4.0
+2026-10-22,ENZL,ISHARES:MSCI NEW ZLND,,Foreign,25.0,29.0,4.0
 2026-10-22,EOG,"EOG RESOURCES, INC.",Energy,Energy,-110.0,-56.0,54.0
 2026-10-22,EPAM,"EPAM SYSTEMS, INC.",Information Technology,Information Technology,-34.0,-35.0,-1.0
 2026-10-22,EPHE,ISHARES:MSCI PHILIPPINES,,Foreign,-44.0,-13.0,31.0
@@ -213,7 +213,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,EWH,ISHARES:MSCI HONG KONG,,Foreign,-83.0,-51.0,32.0
 2026-10-22,EWI,ISHARES:MSCI ITALY,,Foreign,-20.0,41.0,61.0
 2026-10-22,EWJ,ISHARES:MSCI JAPAN,,Foreign,-29.0,8.0,37.0
-2026-10-22,EWK,ISHARES:MSCI BELGIUM,,Foreign,41.0,31.0,-10.0
+2026-10-22,EWK,ISHARES:MSCI BELGIUM,,Foreign,30.0,20.0,-10.0
 2026-10-22,EWL,ISHARES:MSCI SWITZERLAND,,Foreign,-18.0,-2.0,16.0
 2026-10-22,EWM,ISHARES:MSCI MALAYSIA,,Foreign,-9.0,12.0,21.0
 2026-10-22,EWN,ISHARES:MSCI NETHERLANDS,,Foreign,0.0,35.0,35.0
@@ -325,7 +325,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,IR,INGERSOLL RAND INC.,Industrials,Industrials,-7.0,-4.0,3.0
 2026-10-22,IRM,IRON MOUNTAIN INC.,Real Estate,Real Estate,-87.0,-39.0,48.0
 2026-10-22,ISRG,"INTUITIVE SURGICAL, INC.",Health Care,Health Care,-11.0,-20.0,-9.0
-2026-10-22,IT,"GARTNER, INC.",Information Technology,Information Technology,6.0,-43.0,-49.0
+2026-10-22,IT,"GARTNER, INC.",Information Technology,Information Technology,23.0,-26.0,-49.0
 2026-10-22,ITW,ILLINOIS TOOL WORKS INC.,Industrials,Industrials,0.0,15.0,15.0
 2026-10-22,IVZ,INVESCO LTD.,Financials,Financials,7.0,71.0,64.0
 2026-10-22,IWD,ISHARES:RUSS 1000 VL ETF,,Sector & Style ETFs,-100.0,-64.0,36.0
@@ -427,7 +427,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,NTRS,NORTHERN TRUST ,Financials,Financials,38.0,27.0,-11.0
 2026-10-22,NUE,NUCOR ,Materials,Materials,-26.0,11.0,37.0
 2026-10-22,NVDA,NVIDIA ,Information Technology,Information Technology,-17.0,2.0,19.0
-2026-10-22,NVR,"NVR, INC.",Consumer Discretionary,Consumer Discretionary,38.0,-1.0,-39.0
+2026-10-22,NVR,"NVR, INC.",Consumer Discretionary,Consumer Discretionary,5.0,-34.0,-39.0
 2026-10-22,NWSA,NEWS CORP.,Communication Services,Communication Services,-101.0,-39.0,62.0
 2026-10-22,NXPI,NXP SEMICONDUCTORS NV,Information Technology,Information Technology,9.0,-3.0,-12.0
 2026-10-22,O,REALTY INCOME ,Real Estate,Real Estate,-12.0,-12.0,0.0
@@ -463,7 +463,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,PNR,PENTAIR PUBLIC LIMITED COMPANY,Industrials,Industrials,-15.0,-35.0,-20.0
 2026-10-22,PNW,PINNACLE WEST CAPITAL ,Utilities,Utilities,-20.0,-20.0,0.0
 2026-10-22,PODD,INSULET ,Health Care,Health Care,-8.0,-2.0,6.0
-2026-10-22,POWA,INVESCO BLOOMBERG PRICING POWER,,Sector & Style ETFs,-50.0,-9.0,41.0
+2026-10-22,POWA,INVESCO BLOOMBERG PRICING POWER,,Sector & Style ETFs,-43.0,-2.0,41.0
 2026-10-22,PPG,"PPG INDUSTRIES, INC.",Materials,Materials,-71.0,-7.0,64.0
 2026-10-22,PPL,PPL ,Utilities,Utilities,-41.0,-35.0,6.0
 2026-10-22,PPLT,ABRDN:PHYSICAL PLATINUM,,Commodities,-113.0,-102.0,11.0
@@ -474,7 +474,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-10-22,PWR,"QUANTA SERVICES, INC.",Industrials,Industrials,-39.0,-13.0,26.0
 2026-10-22,PYPL,"PAYPAL HOLDINGS, INC.",Financials,Financials,-45.0,-40.0,5.0
 2026-10-22,Q,"QNITY ELECTRONICS, INC.",Information Technology,Information Technology,-48.0,-77.0,-29.0
-2026-10-22,QAT,ISHARES:MSCI QATAR,,Foreign,26.0,22.0,-4.0
+2026-10-22,QAT,ISHARES:MSCI QATAR,,Foreign,24.0,20.0,-4.0
 2026-10-22,QCOM,QUALCOMM INC.,Information Technology,Information Technology,114.0,77.0,-37.0
 2026-10-22,QQQ,INVESCO QQQ TRUST 1,,Sector & Style ETFs,52.0,36.0,-16.0
 2026-10-22,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,-13.0,-10.0,3.0
