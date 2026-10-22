@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
-HAS,"HASBRO, INC.",Consumer Discretionary,2026-10-20,-60.0,-29.9
-DPZ,"DOMINO'S PIZZA, INC.",Consumer Discretionary,2026-10-20,-50.0,-3.7
-NVDA,NVIDIA ,Information Technology,2026-10-20,-38.0,-5.5
-SLV,ISHARES:SILVER TRUST,Commodities,2026-10-20,-34.0,-4.0
-HBAN,HUNTINGTON BANCSHARES INC.,Financials,2026-10-20,-31.0,-3.0
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-10-20,-26.0,-3.1
-MSCI,MSCI INC.,Financials,2026-10-20,-24.0,-3.7
-WDAY,"WORKDAY, INC.",Information Technology,2026-10-20,-23.0,-4.4
-APP,APPLOVIN CORP,Information Technology,2026-10-20,-20.0,-3.4
-ZBRA,ZEBRA TECHNOLOGIES ,Information Technology,2026-10-20,-20.0,-4.0
+HAS,"HASBRO, INC.",Consumer Discretionary,2026-10-21,-70.0,-8.6
+DGX,QUEST DIAGNOSTICS INC.,Health Care,2026-10-21,-60.0,-3.2
+DHR,DANAHER ,Health Care,2026-10-21,-44.0,-3.4
+ESS,"ESSEX PROPERTY TRUST, INC.",Real Estate,2026-10-21,-29.0,-3.9
+MSCI,MSCI INC.,Financials,2026-10-21,-27.0,-3.7
+ARES,ARES MANAGEMENT CORP,Financials,2026-10-21,-26.0,-4.1
+ALLE,ALLEGION PUBLIC LIMITED COMPANY,Industrials,2026-10-21,-23.0,-3.3
+CSX,CSX ,Industrials,2026-10-21,-23.0,-26.2
+MS,MORGAN STANLEY,Financials,2026-10-21,-20.0,-10.7
+CARR,CARRIER GLOBAL ,Industrials,2026-10-21,-19.0,-3.1

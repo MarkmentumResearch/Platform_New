@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-TTD,"THE TRADE DESK, INC.",Communication Services,2026-10-20,-0.2098
-IT,"GARTNER, INC.",Information Technology,2026-10-20,-0.201
-EFX,EQUIFAX INC.,Industrials,2026-10-20,-0.177
-FISV,"FISERV, INC.",Financials,2026-10-20,-0.1752
-CSGP,"COSTAR GROUP, INC.",Real Estate,2026-10-20,-0.1682
-INTU,INTUIT INC.,Information Technology,2026-10-20,-0.1668
-ZTS,ZOETIS INC.,Health Care,2026-10-20,-0.1638
-ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-10-20,-0.1636
-TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-10-20,-0.1486
-EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-10-20,-0.1438
+TTD,"THE TRADE DESK, INC.",Communication Services,2026-10-21,-0.206
+IT,"GARTNER, INC.",Information Technology,2026-10-21,-0.1927
+FISV,"FISERV, INC.",Financials,2026-10-21,-0.1803
+INTU,INTUIT INC.,Information Technology,2026-10-21,-0.1707
+EFX,EQUIFAX INC.,Industrials,2026-10-21,-0.1648
+ZTS,ZOETIS INC.,Health Care,2026-10-21,-0.1593
+ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-10-21,-0.1572
+CSGP,"COSTAR GROUP, INC.",Real Estate,2026-10-21,-0.1569
+EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-10-21,-0.154
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-10-21,-0.1454
