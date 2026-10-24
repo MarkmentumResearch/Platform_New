@@ -1,6 +1,4 @@
 Ticker,Ticker_name,Category,Date,change_pct
-BF B,,,2026-10-23,-1.0
-BRK B,,,2026-10-23,-1.0
 TTD,"THE TRADE DESK, INC.",Communication Services,2026-10-23,-0.2323
 IT,"GARTNER, INC.",Information Technology,2026-10-23,-0.2031
 FISV,"FISERV, INC.",Financials,2026-10-23,-0.1943
@@ -9,3 +7,5 @@ ZTS,ZOETIS INC.,Health Care,2026-10-23,-0.171
 EFX,EQUIFAX INC.,Industrials,2026-10-23,-0.1702
 ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-10-23,-0.1682
 CSGP,"COSTAR GROUP, INC.",Real Estate,2026-10-23,-0.1642
+STZ,"CONSTELLATION BRANDS, INC.",Consumer Staples,2026-10-23,-0.1626
+TYL,"TYLER TECHNOLOGIES, INC.",Information Technology,2026-10-23,-0.1593

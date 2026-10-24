@@ -57,7 +57,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_qtd_change,current_model_s
 2026-10-23,BBY,"BEST BUY CO., INC.",Consumer Discretionary,Consumer Discretionary,23.0,1.0,-22.0
 2026-10-23,BDX,"BECTON, DICKINSON AND COMPANY",Health Care,Health Care,-89.0,-20.0,69.0
 2026-10-23,BEN,"FRANKLIN RESOURCES, INC.",Financials,Financials,0.0,15.0,15.0
-2026-10-22,BF.B,BROWN-FORMAN ,Consumer Staples,Consumer Staples,-25.0,-20.0,5.0
+2026-10-23,BF.B,BROWN-FORMAN ,Consumer Staples,Consumer Staples,-46.0,-41.0,5.0
 2026-10-23,BG,BUNGE LIMITED,Consumer Staples,Consumer Staples,5.0,40.0,35.0
 2026-10-23,BIIB,BIOGEN INC.,Health Care,Health Care,-4.0,5.0,9.0
 2026-10-23,BKNG,BOOKING HOLDINGS INC.,Consumer Discretionary,Consumer Discretionary,-14.0,-14.0,0.0
@@ -67,7 +67,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_qtd_change,current_model_s
 2026-10-23,BMY,BRISTOL-MYERS SQUIBB COMPANY,Health Care,Health Care,-8.0,27.0,35.0
 2026-10-23,BNY,THE BANK OF NEW YORK MELLON ,Financials,Financials,67.0,67.0,0.0
 2026-10-23,BR,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Industrials,Industrials,-34.0,-20.0,14.0
-2026-10-22,BRK.B,"BERKSHIRE HATHAWAY INC.,",Financials,Financials,-33.0,-26.0,7.0
+2026-10-23,BRK.B,"BERKSHIRE HATHAWAY INC.,",Financials,Financials,-33.0,-26.0,7.0
 2026-10-23,BRO,"BROWN & BROWN, INC.",Financials,Financials,-14.0,-2.0,12.0
 2026-10-23,BSX,BOSTON SCIENTIFIC ,Health Care,Health Care,-39.0,-7.0,32.0
 2026-10-23,BTC=F,BITCOIN FUTURES,,Futures,-24.0,-34.0,-10.0
