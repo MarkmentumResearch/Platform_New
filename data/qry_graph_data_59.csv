@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,mtd_return_pct
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-22,-0.3038
-FLEX,FLEX LTD.,Information Technology,2026-10-22,-0.3028
-LRCX,LAM RESEARCH ,Information Technology,2026-10-22,-0.2994
-INTC,INTEL ,Information Technology,2026-10-22,-0.2889
-COHR,COHERENT CORP.,Information Technology,2026-10-22,-0.2779
-SNDK,SANDISK CORPORATION,Information Technology,2026-10-22,-0.2753
-AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-10-22,-0.2656
-SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-22,-0.2469
-KLAC,KLA ,Information Technology,2026-10-22,-0.2416
-TER,"TERADYNE, INC.",Information Technology,2026-10-22,-0.2299
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-23,-0.3164
+FLEX,FLEX LTD.,Information Technology,2026-10-23,-0.304
+LRCX,LAM RESEARCH ,Information Technology,2026-10-23,-0.2996
+FIX,"COMFORT SYSTEMS USA, INC.",Industrials,2026-10-23,-0.2982
+SNDK,SANDISK CORPORATION,Information Technology,2026-10-23,-0.2884
+INTC,INTEL ,Information Technology,2026-10-23,-0.2767
+COHR,COHERENT CORP.,Information Technology,2026-10-23,-0.2728
+AMAT,"APPLIED MATERIALS, INC.",Information Technology,2026-10-23,-0.2623
+KLAC,KLA ,Information Technology,2026-10-23,-0.253
+SKYD,PARAMOUNT SKYDANCE ,Communication Services,2026-10-23,-0.2478

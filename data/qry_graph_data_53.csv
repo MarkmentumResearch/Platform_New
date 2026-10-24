@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,wtd_return_pct
-FLEX,FLEX LTD.,Information Technology,2026-10-22,-0.1522
-LRCX,LAM RESEARCH ,Information Technology,2026-10-22,-0.128
-PWR,"QUANTA SERVICES, INC.",Industrials,2026-10-22,-0.126
-HWM,HOWMET AEROSPACE INC.,Industrials,2026-10-22,-0.1253
-FIX,"COMFORT SYSTEMS USA, INC.",Industrials,2026-10-22,-0.114
-KLAC,KLA ,Information Technology,2026-10-22,-0.1081
-COHR,COHERENT CORP.,Information Technology,2026-10-22,-0.1077
-GEV,GE VERNOVA INC.,Industrials,2026-10-22,-0.1018
-NRG,"NRG ENERGY, INC.",Utilities,2026-10-22,-0.0904
-DXCM,"DEXCOM, INC.",Health Care,2026-10-22,-0.0897
+FIX,"COMFORT SYSTEMS USA, INC.",Industrials,2026-10-23,-0.1933
+HWM,HOWMET AEROSPACE INC.,Industrials,2026-10-23,-0.1586
+FLEX,FLEX LTD.,Information Technology,2026-10-23,-0.1538
+PWR,"QUANTA SERVICES, INC.",Industrials,2026-10-23,-0.1352
+LRCX,LAM RESEARCH ,Information Technology,2026-10-23,-0.1282
+KLAC,KLA ,Information Technology,2026-10-23,-0.1215
+GEV,GE VERNOVA INC.,Industrials,2026-10-23,-0.1153
+NRG,"NRG ENERGY, INC.",Utilities,2026-10-23,-0.1103
+T,AT&T INC.,Communication Services,2026-10-23,-0.1071
+EME,"EMCOR GROUP, INC.",Industrials,2026-10-23,-0.1025

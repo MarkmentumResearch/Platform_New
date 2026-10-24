@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-10-22,0.4112
-FICO,FAIR ISAAC ,Information Technology,2026-10-22,0.3894
-PTC,PTC INC.,Information Technology,2026-10-22,0.3828
-EFX,EQUIFAX INC.,Industrials,2026-10-22,0.3641
-HAS,"HASBRO, INC.",Consumer Discretionary,2026-10-22,0.337
-CSGP,"COSTAR GROUP, INC.",Real Estate,2026-10-22,0.2938
-INTU,INTUIT INC.,Information Technology,2026-10-22,0.2872
-CDW,CDW ,Information Technology,2026-10-22,0.2845
-CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,2026-10-22,0.2834
-EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-10-22,0.2793
+PTC,PTC INC.,Information Technology,2026-10-23,0.3813
+FICO,FAIR ISAAC ,Information Technology,2026-10-23,0.3761
+ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-10-23,0.3599
+HAS,"HASBRO, INC.",Consumer Discretionary,2026-10-23,0.3394
+EFX,EQUIFAX INC.,Industrials,2026-10-23,0.3288
+CCI,CROWN CASTLE INC.,Real Estate,2026-10-23,0.2899
+CDW,CDW ,Information Technology,2026-10-23,0.2883
+VXN,CBOE NASDAQ MKT VOL NDX,Volatility,2026-10-23,0.26
+EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-10-23,0.2574
+ROP,"ROPER TECHNOLOGIES, INC.",Information Technology,2026-10-23,0.2539
