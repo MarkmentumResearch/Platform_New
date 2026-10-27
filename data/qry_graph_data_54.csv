@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-10-23,470.51
-INTC,INTEL ,Information Technology,2026-10-23,466.66
-T,AT&T INC.,Communication Services,2026-10-23,313.12
-NFLX,"NETFLIX, INC.",Communication Services,2026-10-23,298.79
-EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-10-23,290.08
-RIG,TRANSOCEAN LTD,MR Discretion,2026-10-23,239.49
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-10-23,228.5
-HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-10-23,214.85
-TSLA,"TESLA, INC.",Consumer Discretionary,2026-10-23,204.97
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-10-23,196.64
+EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-10-26,299.05
+PBR,BRAZILIAN PETROLEUM  - PETROBRAS,MR Discretion,2026-10-26,102.62
+INTC,INTEL ,Information Technology,2026-10-26,98.74
+NVDA,NVIDIA ,Information Technology,2026-10-26,90.83
+RIG,TRANSOCEAN LTD,MR Discretion,2026-10-26,63.87
+T,AT&T INC.,Communication Services,2026-10-26,59.4
+NFLX,"NETFLIX, INC.",Communication Services,2026-10-26,54.42
+TSLA,"TESLA, INC.",Consumer Discretionary,2026-10-26,53.09
+VZ,VERIZON COMMUNICATIONS INC.,Communication Services,2026-10-26,45.25
+AAPL,APPLE INC.,Information Technology,2026-10-26,42.74
