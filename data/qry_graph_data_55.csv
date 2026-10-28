@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_wtd_change,current_model_score,previous_model_score
-DBA,INVESCO DB MS AGRI,Commodities,2026-10-26,96.0,63.0,-33.0
-DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-10-26,95.0,54.0,-41.0
-META,"META PLATFORMS, INC.",Communication Services,2026-10-26,91.0,45.0,-46.0
-NVDA,NVIDIA ,Information Technology,2026-10-26,87.0,61.0,-26.0
-IVZ,INVESCO LTD.,Financials,2026-10-26,81.0,71.0,-10.0
-Q,"QNITY ELECTRONICS, INC.",Information Technology,2026-10-26,80.0,9.0,-71.0
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-10-26,80.0,70.0,-10.0
-COMT,ISHARES:GSCI COMM DYN RS,Commodities,2026-10-26,79.0,40.0,-39.0
-XLC,SEL SECTOR:COMM SVC SPDR,Sector & Style ETFs,2026-10-26,79.0,46.0,-33.0
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-10-26,77.0,60.0,-17.0
+ANET,"ARISTA NETWORKS, INC.",Information Technology,2026-10-27,108.0,101.0,-7.0
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-10-27,104.0,63.0,-41.0
+Q,"QNITY ELECTRONICS, INC.",Information Technology,2026-10-27,104.0,33.0,-71.0
+JBL,JABIL INC.,Information Technology,2026-10-27,98.0,69.0,-29.0
+EWN,ISHARES:MSCI NETHERLANDS,Foreign,2026-10-27,97.0,79.0,-18.0
+GLD,SPDR GOLD,Commodities,2026-10-27,97.0,6.0,-91.0
+NVDA,NVIDIA ,Information Technology,2026-10-27,87.0,61.0,-26.0
+SMH,VANECK:SEMICONDUCTOR,Sector & Style ETFs,2026-10-27,86.0,73.0,-13.0
+APH,AMPHENOL ,Information Technology,2026-10-27,84.0,71.0,-13.0
+COMT,ISHARES:GSCI COMM DYN RS,Commodities,2026-10-27,84.0,45.0,-39.0
