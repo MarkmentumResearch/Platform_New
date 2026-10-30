@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-SNDK,SANDISK CORPORATION,Information Technology,2026-10-28,1.0969
-LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-10-28,0.5811
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-28,0.533
-TER,"TERADYNE, INC.",Information Technology,2026-10-28,0.4951
-HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-10-28,0.4682
-LRCX,LAM RESEARCH ,Information Technology,2026-10-28,0.4593
-WDC,WESTERN DIGITAL ,Information Technology,2026-10-28,0.4387
-INTC,INTEL ,Information Technology,2026-10-28,0.4386
-FFIV,"F5, INC.",Information Technology,2026-10-28,0.4309
-GLW,CORNING INC.,Information Technology,2026-10-28,0.4186
+SNDK,SANDISK CORPORATION,Information Technology,2026-10-29,1.2147
+LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-10-29,0.5715
+TER,"TERADYNE, INC.",Information Technology,2026-10-29,0.5653
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-29,0.5275
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-10-29,0.5028
+INTC,INTEL ,Information Technology,2026-10-29,0.4927
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-10-29,0.4807
+TWLO,TWILIO INC. ,Information Technology,2026-10-29,0.4732
+CIEN,CIENA CORPORATION,Information Technology,2026-10-29,0.4717
+FTNT,"FORTINET, INC.",Information Technology,2026-10-29,0.4712

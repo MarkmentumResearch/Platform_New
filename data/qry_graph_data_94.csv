@@ -1,7 +1,7 @@
 Metric,15D,30D,90D
-S&P 500 (SPX),0.45,0.01,-0.15
-Nasdaq 100 (NDX),0.61,0.23,-0.0
-Russell 2000 (RUT),-0.1,-0.3,-0.39
-Financials (XLF),-0.5,-0.44,-0.34
-Utilities (XLU),-0.54,-0.58,-0.39
+S&P 500 (SPX),0.44,0.1,-0.16
+Nasdaq 100 (NDX),0.61,0.32,-0.0
+Russell 2000 (RUT),-0.15,-0.32,-0.41
+Financials (XLF),-0.51,-0.48,-0.35
+Utilities (XLU),-0.59,-0.59,-0.4
 Long Treasuries (TLT),-0.93,-0.91,-0.87

@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,model_score_day_change,current_model_score,previous_model_score
-APH,AMPHENOL ,Information Technology,2026-10-28,-71.0,0.0,71.0
-FFIV,"F5, INC.",Information Technology,2026-10-28,-63.0,-29.0,34.0
-VRT,VERTIV HOLDINGS CO,Industrials,2026-10-28,-58.0,-22.0,36.0
-DLTR,"DOLLAR TREE, INC.",Consumer Staples,2026-10-28,-54.0,-32.0,22.0
-AMT,AMERICAN TOWER ,Real Estate,2026-10-28,-52.0,-102.0,-50.0
-XLRE,SEL SECTOR:RL EST SPDR,Sector & Style ETFs,2026-10-28,-47.0,-100.0,-53.0
-ATO,ATMOS ENERGY ,Utilities,2026-10-28,-46.0,-81.0,-35.0
-DBA,INVESCO DB MS AGRI,Commodities,2026-10-28,-45.0,-18.0,27.0
-CTVA,"CORTEVA, INC.",Materials,2026-10-28,-44.0,-12.0,32.0
-NKE,"NIKE, INC.",Consumer Discretionary,2026-10-28,-44.0,-46.0,-2.0
+FTNT,"FORTINET, INC.",Information Technology,2026-10-29,-88.0,-29.0,59.0
+UBER,"UBER TECHNOLOGIES, INC.",Industrials,2026-10-29,-77.0,-34.0,43.0
+TT,TRANE TECHNOLOGIES PLC,Industrials,2026-10-29,-74.0,0.0,74.0
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-10-29,-72.0,14.0,86.0
+CMG,"CHIPOTLE MEXICAN GRILL, INC.",Consumer Discretionary,2026-10-29,-69.0,-32.0,37.0
+GOOGL,ALPHABET INC.,Communication Services,2026-10-29,-69.0,-29.0,40.0
+STNG,SCORPIO TANKERS INC.,MR Discretion,2026-10-29,-63.0,-0.0,63.0
+LII,LENNOX INTERNATIONAL INC.,Industrials,2026-10-29,-60.0,-22.0,38.0
+BLDR,"BUILDERS FIRSTSOURCE, INC.",Industrials,2026-10-29,-57.0,-24.0,33.0
+XLC,SEL SECTOR:COMM SVC SPDR,Sector & Style ETFs,2026-10-29,-51.0,-20.0,31.0
