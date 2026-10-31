@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,change_pct
-SNDK,SANDISK CORPORATION,Information Technology,2026-10-29,1.2147
-LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-10-29,0.5715
-TER,"TERADYNE, INC.",Information Technology,2026-10-29,0.5653
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-29,0.5275
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-10-29,0.5028
-INTC,INTEL ,Information Technology,2026-10-29,0.4927
-MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-10-29,0.4807
-TWLO,TWILIO INC. ,Information Technology,2026-10-29,0.4732
-CIEN,CIENA CORPORATION,Information Technology,2026-10-29,0.4717
-FTNT,"FORTINET, INC.",Information Technology,2026-10-29,0.4712
+SNDK,SANDISK CORPORATION,Information Technology,2026-10-30,1.5331
+INTC,INTEL ,Information Technology,2026-10-30,1.0332
+RDDT,"REDDIT, INC.",Communication Services,2026-10-30,0.7427
+LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-10-30,0.7189
+TWLO,TWILIO INC. ,Information Technology,2026-10-30,0.7105
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-10-30,0.6624
+TER,"TERADYNE, INC.",Information Technology,2026-10-30,0.66
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-10-30,0.6599
+COHR,COHERENT CORP.,Information Technology,2026-10-30,0.609
+CIEN,CIENA CORPORATION,Information Technology,2026-10-30,0.6035

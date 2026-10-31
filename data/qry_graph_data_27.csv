@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-NOW,"SERVICENOW, INC.",Information Technology,2026-10-29,-0.2695
-FTNT,"FORTINET, INC.",Information Technology,2026-10-29,-0.2009
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-10-29,-0.1324
-GOOGL,ALPHABET INC.,Communication Services,2026-10-29,-0.1264
-CAT,CATERPILLAR INC.,Industrials,2026-10-29,-0.0925
-BAX,BAXTER INTERNATIONAL INC.,Health Care,2026-10-29,-0.077
-FTI,TECHNIPFMC PLC,MR Discretion,2026-10-29,-0.0623
-CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,2026-10-29,-0.0579
-TER,"TERADYNE, INC.",Information Technology,2026-10-29,-0.0543
-SNDK,SANDISK CORPORATION,Information Technology,2026-10-29,-0.0532
+RDDT,"REDDIT, INC.",Communication Services,2026-10-30,-0.2922
+INTC,INTEL ,Information Technology,2026-10-30,-0.2858
+TWLO,TWILIO INC. ,Information Technology,2026-10-30,-0.1524
+SNDK,SANDISK CORPORATION,Information Technology,2026-10-30,-0.1347
+DDOG,"DATADOG, INC.",Information Technology,2026-10-30,-0.115
+COHR,COHERENT CORP.,Information Technology,2026-10-30,-0.1134
+QCOM,QUALCOMM INC.,Information Technology,2026-10-30,-0.1112
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-10-30,-0.1088
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-10-30,-0.1077
+COIN,"COINBASE GLOBAL, INC.",Financials,2026-10-30,-0.1062
