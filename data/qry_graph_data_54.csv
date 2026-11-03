@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-INTC,INTEL ,Information Technology,2026-10-30,861.63
-EWZ,ISHARES:MSCI BRAZIL,Foreign,2026-10-30,601.25
-NVDA,NVIDIA ,Information Technology,2026-10-30,514.61
-GOOGL,ALPHABET INC.,Communication Services,2026-10-30,321.17
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-10-30,292.22
-HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-10-30,273.76
-STLA,STELLANTIS NV,MR Discretion,2026-10-30,263.19
-T,AT&T INC.,Communication Services,2026-10-30,258.45
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-10-30,247.82
-RIG,TRANSOCEAN LTD,MR Discretion,2026-10-30,243.0
+INTC,INTEL ,Information Technology,2026-11-02,230.69
+NVDA,NVIDIA ,Information Technology,2026-11-02,119.27
+KVUE,KENVUE INC.,Consumer Staples,2026-10-30,114.98
+AAPL,APPLE INC.,Information Technology,2026-11-02,64.76
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-11-02,61.47
+ORCL,ORACLE ,Information Technology,2026-11-02,58.75
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-02,58.35
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-02,54.74
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-11-02,53.38
+T,AT&T INC.,Communication Services,2026-11-02,51.58
