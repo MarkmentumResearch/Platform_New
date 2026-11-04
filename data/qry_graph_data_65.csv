@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-INTC,INTEL ,Information Technology,2026-11-02,-0.5012
-SNDK,SANDISK CORPORATION,Information Technology,2026-11-02,-0.3821
-RDDT,"REDDIT, INC.",Communication Services,2026-11-02,-0.3613
-STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-11-02,-0.3562
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-11-02,-0.3512
-TER,"TERADYNE, INC.",Information Technology,2026-11-02,-0.349
-LRCX,LAM RESEARCH ,Information Technology,2026-11-02,-0.3073
-COHR,COHERENT CORP.,Information Technology,2026-11-02,-0.3053
-LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-11-02,-0.2953
-FTNT,"FORTINET, INC.",Information Technology,2026-11-02,-0.294
+INTC,INTEL ,Information Technology,2026-11-03,-0.4964
+SNDK,SANDISK CORPORATION,Information Technology,2026-11-03,-0.3525
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-11-03,-0.3491
+STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,2026-11-03,-0.3426
+TER,"TERADYNE, INC.",Information Technology,2026-11-03,-0.3282
+RDDT,"REDDIT, INC.",Communication Services,2026-11-03,-0.325
+LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-11-03,-0.2997
+LRCX,LAM RESEARCH ,Information Technology,2026-11-03,-0.2977
+FTNT,"FORTINET, INC.",Information Technology,2026-11-03,-0.2833
+COHR,COHERENT CORP.,Information Technology,2026-11-03,-0.2791
