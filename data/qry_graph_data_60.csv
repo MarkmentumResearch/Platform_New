@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
+INTC,INTEL ,Information Technology,2026-11-04,569.05
 KVUE,KENVUE INC.,Consumer Staples,2026-10-30,454.94
-INTC,INTEL ,Information Technology,2026-11-03,379.74
-NVDA,NVIDIA ,Information Technology,2026-11-03,211.22
-ORCL,ORACLE ,Information Technology,2026-11-03,143.04
-AAPL,APPLE INC.,Information Technology,2026-11-03,127.92
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-11-03,105.14
-PFE,PFIZER INC.,Health Care,2026-11-03,103.88
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-11-03,100.88
-BAC,BANK OF AMERICA ,Financials,2026-11-03,98.97
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-03,96.2
+NVDA,NVIDIA ,Information Technology,2026-11-04,360.25
+ORCL,ORACLE ,Information Technology,2026-11-04,254.87
+AAPL,APPLE INC.,Information Technology,2026-11-04,217.56
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-11-04,193.87
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-04,189.36
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-04,154.63
+PFE,PFIZER INC.,Health Care,2026-11-04,153.8
+HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-11-04,151.72
