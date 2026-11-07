@@ -10,14 +10,14 @@ Volatility,0,2,0,2,0.0,100.0,0.0
 Foreign,10,26,2,38,26.3,68.4,5.3
 Communication Services,3,16,0,19,15.8,84.2,0.0
 Consumer Discretionary,16,30,1,47,34.0,63.8,2.1
-Consumer Staples,12,22,1,35,34.3,62.9,2.9
+Consumer Staples,11,22,1,34,32.4,64.7,2.9
 Energy,6,15,0,21,28.6,71.4,0.0
 Financials,45,31,0,76,59.2,40.8,0.0
 Health Care,14,42,3,59,23.7,71.2,5.1
 Industrials,30,50,0,80,37.5,62.5,0.0
-Information Technology,18,57,1,76,23.7,75.0,1.3
+Information Technology,18,58,1,77,23.4,75.3,1.3
 Materials,14,12,0,26,53.8,46.2,0.0
 Real Estate,11,19,0,30,36.7,63.3,0.0
 Utilities,10,21,0,31,32.3,67.7,0.0
-MR Discretion,5,31,1,37,13.5,83.8,2.7
+MR Discretion,6,30,1,37,16.2,81.1,2.7
 Total,212,425,16,653,32.5,65.1,2.5

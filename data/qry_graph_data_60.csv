@@ -1,7 +1,6 @@
 Ticker,Ticker_name,Category,Date,volume
 INTC,INTEL ,Information Technology,2026-11-06,1013.72
 NVDA,NVIDIA ,Information Technology,2026-11-06,846.59
-KVUE,KENVUE INC.,Consumer Staples,2026-10-30,454.94
 ORCL,ORACLE ,Information Technology,2026-11-06,359.35
 QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-06,356.0
 AAPL,APPLE INC.,Information Technology,2026-11-06,337.94
@@ -9,3 +8,4 @@ SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-06,330.69
 AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-06,317.73
 SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-11-06,293.98
 XLE,SEL SECTOR:ENERGY SPDR,Sector & Style ETFs,2026-11-06,260.95
+PFE,PFIZER INC.,Health Care,2026-11-06,255.17

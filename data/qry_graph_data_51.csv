@@ -336,6 +336,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Sharpe_Rank_qtd_change,current_Sharpe_
 2026-11-06,JBL,JABIL INC.,Information Technology,Information Technology,-23.1,1.8,24.9
 2026-11-06,JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,Industrials,-69.0,6.5,75.5
 2026-11-06,JKHY,"JACK HENRY & ASSOCIATES, INC.",Financials,Financials,75.8,78.0,2.2
+2026-11-06,JMKE,JERSEY MIKE'S SUBS INC.,,MR Discretion,60.2,87.3,27.1
 2026-11-06,JNJ,JOHNSON & JOHNSON,Health Care,Health Care,48.3,60.1,11.8
 2026-11-06,JNK,SPDR BBG HIGH YIELD BD,,Bonds,59.9,61.7,1.8
 2026-11-06,JPM,JPMORGAN CHASE & CO.,Financials,Financials,47.2,49.0,1.8
@@ -350,7 +351,6 @@ Date,Ticker,Ticker_name,Exposure,Category,Sharpe_Rank_qtd_change,current_Sharpe_
 2026-11-06,KMI,"KINDER MORGAN, INC.",Energy,Energy,3.1,6.5,3.4
 2026-11-06,KO,THE COCA-COLA COMPANY,Consumer Staples,Consumer Staples,73.0,85.9,12.9
 2026-11-06,KR,THE KROGER CO.,Consumer Staples,Consumer Staples,21.2,87.9,66.7
-2026-10-30,KVUE,KENVUE INC.,Consumer Staples,Consumer Staples,85.6,97.0,11.4
 2026-11-06,L,LOEWS ,Financials,Financials,56.3,64.5,8.2
 2026-11-06,LDOS,"LEIDOS HOLDINGS, INC.",Industrials,Industrials,74.9,85.5,10.6
 2026-11-06,LEN,LENNAR ,Consumer Discretionary,Consumer Discretionary,45.8,98.2,52.4
@@ -434,6 +434,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Sharpe_Rank_qtd_change,current_Sharpe_
 2026-11-06,ODFL,"OLD DOMINION FREIGHT LINE, INC.",Industrials,Industrials,-3.4,15.5,18.9
 2026-11-06,OEF,ISHARES:S&P 100,,Sector & Style ETFs,-53.4,4.2,57.6
 2026-11-06,OKE,"ONEOK, INC.",Energy,Energy,12.3,12.9,0.6
+2026-11-06,OKTA,"OKTA, INC.",Information Technology,Information Technology,-85.6,3.0,88.6
 2026-11-06,OMC,OMNICOM GROUP INC.,Communication Services,Communication Services,90.0,95.8,5.8
 2026-11-06,ON,ON SEMICONDUCTOR ,Information Technology,Information Technology,-46.9,8.5,55.4
 2026-11-06,ORCL,ORACLE ,Information Technology,Information Technology,-20.8,31.2,52.0
@@ -488,7 +489,6 @@ Date,Ticker,Ticker_name,Exposure,Category,Sharpe_Rank_qtd_change,current_Sharpe_
 2026-11-06,RL,RALPH LAUREN ,Consumer Discretionary,Consumer Discretionary,-19.1,50.2,69.3
 2026-11-06,RMD,RESMED INC.,Health Care,Health Care,32.4,62.1,29.7
 2026-11-06,ROK,"ROCKWELL AUTOMATION, INC.",Industrials,Industrials,-61.8,8.9,70.7
-2026-11-06,ROKU,"ROKU, INC.",,MR Discretion,54.3,69.2,14.9
 2026-11-06,ROL,"ROLLINS, INC.",Industrials,Industrials,91.2,95.0,3.8
 2026-11-06,ROP,"ROPER TECHNOLOGIES, INC.",Information Technology,Information Technology,97.2,97.8,0.6
 2026-11-06,ROST,"ROSS STORES, INC.",Consumer Discretionary,Consumer Discretionary,7.6,42.7,35.1
