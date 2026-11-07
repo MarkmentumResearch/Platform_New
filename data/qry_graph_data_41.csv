@@ -1,5 +1,6 @@
 Ticker,Ticker_name,Category,Date,Spread_Quad,Spread_Score
-PTC,PTC INC.,Information Technology,2026-11-05,3,32.9547
-FICO,FAIR ISAAC ,Information Technology,2026-11-05,3,20.3935
-CHRW,"C.H. ROBINSON WORLDWIDE, INC.",Industrials,2026-11-05,3,1.1769
-PAYX,"PAYCHEX, INC.",Industrials,2026-11-05,3,0.6212
+FICO,FAIR ISAAC ,Information Technology,2026-11-06,3,16.3055
+CHRW,"C.H. ROBINSON WORLDWIDE, INC.",Industrials,2026-11-06,3,14.3408
+CEG,CONSTELLATION ENERGY,Utilities,2026-11-06,3,4.9151
+HUM,HUMANA INC.,Health Care,2026-11-06,3,4.6134
+CCL,CARNIVAL CORP,Consumer Discretionary,2026-11-06,3,1.437
