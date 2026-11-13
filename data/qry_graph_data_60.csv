@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-11-11,2077.8
-INTC,INTEL ,Information Technology,2026-11-11,1395.14
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-11,494.63
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-11,460.82
-AAPL,APPLE INC.,Information Technology,2026-11-11,450.9
-ORCL,ORACLE ,Information Technology,2026-11-11,449.27
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-11,446.17
-SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-11-11,424.72
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-11-11,379.67
-XLE,SEL SECTOR:ENERGY SPDR,Sector & Style ETFs,2026-11-11,359.17
+NVDA,NVIDIA ,Information Technology,2026-11-12,2825.5
+INTC,INTEL ,Information Technology,2026-11-12,1475.83
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-11-12,539.99
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-12,531.84
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-12,498.29
+AAPL,APPLE INC.,Information Technology,2026-11-12,482.78
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-12,480.67
+ORCL,ORACLE ,Information Technology,2026-11-12,471.86
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-11-12,435.08
+HYG,ISHARES:IBOXX $HY CORP,Bonds,2026-11-12,396.73
