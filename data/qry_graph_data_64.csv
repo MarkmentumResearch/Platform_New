@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,qtd_return_pct
-EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-11-12,0.5119
-PTC,PTC INC.,Information Technology,2026-11-12,0.3988
-HAS,"HASBRO, INC.",Consumer Discretionary,2026-11-12,0.3855
-ROP,"ROPER TECHNOLOGIES, INC.",Information Technology,2026-11-12,0.3676
-ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-11-12,0.3631
-FISV,"FISERV, INC.",Financials,2026-11-12,0.3612
-EFX,EQUIFAX INC.,Industrials,2026-11-12,0.361
-APP,APPLOVIN CORP,Information Technology,2026-11-12,0.3555
-GEN,GEN DIGITAL INC.,Information Technology,2026-11-12,0.3483
-CDW,CDW ,Information Technology,2026-11-12,0.3482
+EPAM,"EPAM SYSTEMS, INC.",Information Technology,2026-11-13,0.5056
+FISV,"FISERV, INC.",Financials,2026-11-13,0.4117
+APP,APPLOVIN CORP,Information Technology,2026-11-13,0.4086
+PTC,PTC INC.,Information Technology,2026-11-13,0.397
+GEN,GEN DIGITAL INC.,Information Technology,2026-11-13,0.3806
+HAS,"HASBRO, INC.",Consumer Discretionary,2026-11-13,0.3749
+ROP,"ROPER TECHNOLOGIES, INC.",Information Technology,2026-11-13,0.3737
+EFX,EQUIFAX INC.,Industrials,2026-11-13,0.3707
+ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,2026-11-13,0.366
+CBOE,"CBOE GLOBAL MARKETS, INC.",Financials,2026-11-13,0.3637
