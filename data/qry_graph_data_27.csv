@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,daily_return_pct
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-11-13,-0.0875
-DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-11-13,-0.0718
-CSCO,"CISCO SYSTEMS, INC.",Information Technology,2026-11-13,-0.0624
-COHR,COHERENT CORP.,Information Technology,2026-11-13,-0.06
-SNDK,SANDISK CORPORATION,Information Technology,2026-11-13,-0.0559
-TER,"TERADYNE, INC.",Information Technology,2026-11-13,-0.0538
-WDC,WESTERN DIGITAL ,Information Technology,2026-11-13,-0.05
-BTC=F,BITCOIN FUTURES,Futures,2026-11-13,-0.0479
-AVGO,BROADCOM INC.,Information Technology,2026-11-13,-0.0476
-MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-11-13,-0.0468
+SNDK,SANDISK CORPORATION,Information Technology,2026-11-16,-0.0858
+LITE,LUMENTUM HOLDINGS INC.,Information Technology,2026-11-16,-0.0848
+CIEN,CIENA CORPORATION,Information Technology,2026-11-16,-0.0819
+MU,"MICRON TECHNOLOGY, INC.",Information Technology,2026-11-16,-0.0762
+HOOD,"ROBINHOOD MARKETS, INC.",Financials,2026-11-16,-0.0745
+MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,2026-11-16,-0.0727
+TER,"TERADYNE, INC.",Information Technology,2026-11-16,-0.0707
+INTC,INTEL ,Information Technology,2026-11-16,-0.0702
+DELL,DELL TECHNOLOGIES INC.,Information Technology,2026-11-16,-0.0696
+GLW,CORNING INC.,Information Technology,2026-11-16,-0.0693
