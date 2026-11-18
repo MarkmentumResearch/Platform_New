@@ -1,8 +1,3 @@
 Ticker,Ticker_name,Category,Date,model_score,R/R Ratio
-KMB,KIMBERLY-CLARK ,Consumer Staples,2026-11-16,-37.0,-3.5
-PCG,PG&E ,Utilities,2026-11-16,-36.0,-6.2
-ADBE,ADOBE INC.,Information Technology,2026-11-16,-31.0,-4.7
-ELV,"ELEVANCE HEALTH, INC.",Health Care,2026-11-16,-23.0,-5.2
-TSN,"TYSON FOODS, INC.",Consumer Staples,2026-11-16,-17.0,-4.2
-UNH,UNITEDHEALTH GROUP INC.,Health Care,2026-11-16,23.0,-4.3
-SYY,SYSCO ,Consumer Staples,2026-11-16,44.0,-3.0
+GLATF,GLOBAL ATOMIC ,MR Discretion,2026-11-17,-3.0,-8.4
+WEAT,TEUCRIUM:WHEAT,Commodities,2026-11-17,41.0,-3.4
