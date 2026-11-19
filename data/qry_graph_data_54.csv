@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-11-17,740.81
-INTC,INTEL ,Information Technology,2026-11-17,210.58
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-17,140.84
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-17,99.27
-XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-11-17,93.02
-F,FORD MOTOR COMPANY,Consumer Discretionary,2026-11-17,90.62
-AAPL,APPLE INC.,Information Technology,2026-11-17,87.7
-STLA,STELLANTIS NV,MR Discretion,2026-11-17,87.14
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-17,86.74
-NKE,"NIKE, INC.",Consumer Discretionary,2026-11-17,85.6
+NVDA,NVIDIA ,Information Technology,2026-11-18,1090.6
+INTC,INTEL ,Information Technology,2026-11-18,291.94
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-18,192.65
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-18,144.42
+STLA,STELLANTIS NV,MR Discretion,2026-11-18,135.55
+XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-11-18,131.8
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-11-18,128.25
+AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-18,128.03
+AES,THE AES ,Utilities,2026-11-18,124.31
+T,AT&T INC.,Communication Services,2026-11-18,122.24
