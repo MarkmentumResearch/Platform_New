@@ -47,7 +47,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,AVGO,BROADCOM INC.,Information Technology,Information Technology,33.0,11.0,-22.0
 2026-11-20,AVY,AVERY DENNISON ,Materials,Materials,25.0,11.0,-14.0
 2026-11-20,AWK,"AMERICAN WATER WORKS COMPANY, INC.",Utilities,Utilities,-11.0,-61.0,-50.0
-2026-11-20,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,0.0,0.0,-0.0
+2026-11-20,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,0.0,0.0,0.0
 2026-11-20,AXP,AMERICAN EXPRESS COMPANY,Financials,Financials,57.0,15.0,-42.0
 2026-11-20,AZO,"AUTOZONE, INC.",Consumer Discretionary,Consumer Discretionary,4.0,-16.0,-20.0
 2026-11-20,BA,THE BOEING COMPANY,Industrials,Industrials,-20.0,13.0,33.0
@@ -172,7 +172,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,DXCM,"DEXCOM, INC.",Health Care,Health Care,-26.0,-7.0,19.0
 2026-11-20,DXY,US DOLLAR INDEX,USD,Indices,-4.0,-48.0,-44.0
 2026-11-20,EBAY,EBAY INC.,Consumer Discretionary,Consumer Discretionary,-16.0,18.0,34.0
-2026-11-20,EC,ECOPETROL SA,,MR Discretion,0.0,-0.0,-0.0
+2026-11-20,EC,ECOPETROL SA,,MR Discretion,-0.0,-0.0,0.0
 2026-11-20,ECH,ISHARES:MSCI CHILE,,Foreign,42.0,46.0,4.0
 2026-11-20,ECHO,ECHOSTAR CORPORATION,Communication Services,Communication Services,-15.0,-34.0,-19.0
 2026-11-20,ECL,ECOLAB INC.,Materials,Materials,18.0,-19.0,-37.0
@@ -239,7 +239,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,FDX,FEDEX ,Industrials,Industrials,39.0,2.0,-37.0
 2026-11-20,FE,FIRSTENERGY CORP.,Utilities,Utilities,-25.0,-44.0,-19.0
 2026-11-20,FERG,FERGUSON ENTERPRISES INC.,Industrials,Industrials,47.0,20.0,-27.0
-2026-11-20,FFIV,"F5, INC.",Information Technology,Information Technology,0.0,0.0,-0.0
+2026-11-20,FFIV,"F5, INC.",Information Technology,Information Technology,0.0,0.0,0.0
 2026-11-20,FICO,FAIR ISAAC ,Information Technology,Information Technology,19.0,-18.0,-37.0
 2026-11-20,FIS,FIDELITY NATIONAL INFORMATION SERVICES,Financials,Financials,0.0,0.0,0.0
 2026-11-20,FISV,"FISERV, INC.",Financials,Financials,55.0,-37.0,-92.0
@@ -426,7 +426,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,NTAP,"NETAPP, INC.",Information Technology,Information Technology,26.0,41.0,15.0
 2026-11-20,NTRS,NORTHERN TRUST ,Financials,Financials,57.0,41.0,-16.0
 2026-11-20,NUE,NUCOR ,Materials,Materials,22.0,61.0,39.0
-2026-11-20,NVDA,NVIDIA ,Information Technology,Information Technology,0.0,-0.0,-0.0
+2026-11-20,NVDA,NVIDIA ,Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-20,NVR,"NVR, INC.",Consumer Discretionary,Consumer Discretionary,21.0,8.0,-13.0
 2026-11-20,NWSA,NEWS CORP.,Communication Services,Communication Services,-0.0,-0.0,0.0
 2026-11-20,NXPI,NXP SEMICONDUCTORS NV,Information Technology,Information Technology,44.0,28.0,-16.0
@@ -444,7 +444,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,PAM,PAMPA ENERGIA SA,,MR Discretion,22.0,9.0,-13.0
 2026-11-20,PANW,"PALO ALTO NETWORKS, INC.",Information Technology,Information Technology,69.0,74.0,5.0
 2026-11-20,PAYX,"PAYCHEX, INC.",Industrials,Industrials,27.0,-43.0,-70.0
-2026-11-20,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,0.0,-0.0,-0.0
+2026-11-20,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,-0.0,-0.0,0.0
 2026-11-20,PCAR,PACCAR INC,Industrials,Industrials,63.0,35.0,-28.0
 2026-11-20,PCG,PG&E ,Utilities,Utilities,-8.0,-35.0,-27.0
 2026-11-20,PEG,PUBLIC SERVICE ENTERPRISE GROUP INC.,Utilities,Utilities,-3.0,-46.0,-43.0
@@ -515,7 +515,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,Information Technology,-12.0,-11.0,1.0
 2026-11-20,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,-86.0,-38.0,48.0
 2026-11-20,SNA,SNAP-ON INC.,Industrials,Industrials,13.0,28.0,15.0
-2026-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,-21.0,-21.0,0.0
+2026-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-20,SNPS,"SYNOPSYS, INC.",Information Technology,Information Technology,17.0,22.0,5.0
 2026-11-20,SO,THE SOUTHERN COMPANY,Utilities,Utilities,26.0,-27.0,-53.0
 2026-11-20,SOLV,SOLVENTUM ,Health Care,Health Care,36.0,8.0,-28.0
@@ -561,7 +561,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-20,TMO,THERMO FISHER SCIENTIFIC INC.,Health Care,Health Care,5.0,24.0,19.0
 2026-11-20,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,-37.0,-70.0,-33.0
 2026-11-20,TNX,10 Y TSY YLD NDX,Yields,Yields,5.0,46.0,41.0
-2026-11-20,TPL,TEXAS PACIFIC LAND ,Energy,Energy,-60.0,-60.0,-0.0
+2026-11-20,TPL,TEXAS PACIFIC LAND ,Energy,Energy,-60.0,-60.0,0.0
 2026-11-20,TPR,"TAPESTRY, INC.",Consumer Discretionary,Consumer Discretionary,10.0,-21.0,-31.0
 2026-11-20,TRGP,TARGA RESOURCES CORP.,Energy,Energy,-40.0,-36.0,4.0
 2026-11-20,TRMB,TRIMBLE INC.,Information Technology,Information Technology,-45.0,11.0,56.0

@@ -248,7 +248,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-11-20,FLEX,FLEX LTD.,Information Technology,Information Technology,11.0,11.0,0.0
 2026-11-20,FOXA,FOX ,Communication Services,Communication Services,14.0,-4.0,-18.0
 2026-11-20,FRO,FRONTLINE PLC,,MR Discretion,-32.0,-0.0,32.0
-2026-11-20,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,-6.0,-6.0,-0.0
+2026-11-20,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,-6.0,-6.0,0.0
 2026-11-20,FSLR,"FIRST SOLAR, INC.",Information Technology,Information Technology,35.0,38.0,3.0
 2026-11-20,FTI,TECHNIPFMC PLC,,MR Discretion,-62.0,-16.0,46.0
 2026-11-20,FTNT,"FORTINET, INC.",Information Technology,Information Technology,81.0,43.0,-38.0
@@ -506,7 +506,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-11-20,SDY,SPDR S&P DIVIDEND,,Sector & Style ETFs,60.0,0.0,-60.0
 2026-11-20,SHW,THE SHERWIN-WILLIAMS COMPANY,Materials,Materials,56.0,-7.0,-63.0
 2026-11-20,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,26.0,-0.0,-26.0
-2026-11-20,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,-5.0,-5.0,-0.0
+2026-11-20,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,-5.0,-5.0,0.0
 2026-11-20,SJM,THE J. M. SMUCKER COMPANY,Consumer Staples,Consumer Staples,24.0,-1.0,-25.0
 2026-11-20,SKYD,PARAMOUNT SKYDANCE ,Communication Services,Communication Services,14.0,14.0,0.0
 2026-11-20,SLB,SCHLUMBERGER N.V.,Energy,Energy,20.0,18.0,-2.0
@@ -515,7 +515,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_mtd_change,current_model_s
 2026-11-20,SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,Information Technology,-52.0,-11.0,41.0
 2026-11-20,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,-79.0,-38.0,41.0
 2026-11-20,SNA,SNAP-ON INC.,Industrials,Industrials,-19.0,28.0,47.0
-2026-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,-52.0,-21.0,31.0
+2026-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,-31.0,-0.0,31.0
 2026-11-20,SNPS,"SYNOPSYS, INC.",Information Technology,Information Technology,45.0,22.0,-23.0
 2026-11-20,SO,THE SOUTHERN COMPANY,Utilities,Utilities,-31.0,-27.0,4.0
 2026-11-20,SOLV,SOLVENTUM ,Health Care,Health Care,-15.0,8.0,23.0

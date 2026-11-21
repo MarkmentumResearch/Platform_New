@@ -2868,16 +2868,16 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-03,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,70.6,-11.0
 2026-11-04,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,70.84,-11.0
 2026-11-05,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,70.47,-32.0
-2026-11-06,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,69.97,-0.0
+2026-11-06,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,69.97,0.0
 2026-11-09,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,69.84,0.0
 2026-11-10,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,69.3,0.0
 2026-11-11,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,70.92,0.0
 2026-11-12,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,70.97,0.0
 2026-11-13,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,72.9,0.0
 2026-11-16,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,70.62,0.0
-2026-11-17,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,69.47,-0.0
-2026-11-18,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,67.78,-0.0
-2026-11-19,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,67.13,-0.0
+2026-11-17,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,69.47,0.0
+2026-11-18,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,67.78,0.0
+2026-11-19,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,67.13,0.0
 2026-11-20,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,66.95,-0.0
 2025-10-01,ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,Industrials,291.6099853515625,-20.0
 2025-10-02,ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,Industrials,289.8699951171875,-43.0
@@ -8050,7 +8050,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-30,AME,"AMETEK, INC.",Industrials,Industrials,241.12,59.0
 2026-11-02,AME,"AMETEK, INC.",Industrials,Industrials,241.91,16.0
 2026-11-03,AME,"AMETEK, INC.",Industrials,Industrials,248.58,54.0
-2026-11-04,AME,"AMETEK, INC.",Industrials,Industrials,237.09,-0.0
+2026-11-04,AME,"AMETEK, INC.",Industrials,Industrials,237.09,0.0
 2026-11-05,AME,"AMETEK, INC.",Industrials,Industrials,222.99,-29.0
 2026-11-06,AME,"AMETEK, INC.",Industrials,Industrials,228.67,2.0
 2026-11-09,AME,"AMETEK, INC.",Industrials,Industrials,238.24,46.0
@@ -14103,13 +14103,13 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-06,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,313.0,-5.0
 2026-11-09,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,303.18,-5.0
 2026-11-10,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,302.54,-5.0
-2026-11-11,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,315.42,-0.0
-2026-11-12,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,307.11,-0.0
-2026-11-13,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,315.43,-0.0
-2026-11-16,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,306.44,-0.0
-2026-11-17,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,298.59,-0.0
-2026-11-18,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,300.69,-0.0
-2026-11-19,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,306.98,-0.0
+2026-11-11,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,315.42,0.0
+2026-11-12,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,307.11,0.0
+2026-11-13,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,315.43,0.0
+2026-11-16,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,306.44,0.0
+2026-11-17,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,298.59,0.0
+2026-11-18,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,300.69,0.0
+2026-11-19,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,306.98,0.0
 2026-11-20,AXON,"AXON ENTERPRISE, INC.",Industrials,Industrials,291.14,0.0
 2025-10-01,AXP,AMERICAN EXPRESS COMPANY,Financials,Financials,328.5599975585938,7.0
 2025-10-02,AXP,AMERICAN EXPRESS COMPANY,Financials,Financials,330.4800109863281,-1.0
@@ -21308,7 +21308,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,BTU,PEABODY ENERGY ,,MR Discretion,17.41,0.0
 2026-11-16,BTU,PEABODY ENERGY ,,MR Discretion,16.92,0.0
 2026-11-17,BTU,PEABODY ENERGY ,,MR Discretion,17.24,0.0
-2026-11-18,BTU,PEABODY ENERGY ,,MR Discretion,16.99,-0.0
+2026-11-18,BTU,PEABODY ENERGY ,,MR Discretion,16.99,0.0
 2026-11-19,BTU,PEABODY ENERGY ,,MR Discretion,16.29,0.0
 2026-11-20,BTU,PEABODY ENERGY ,,MR Discretion,15.47,-0.0
 2025-10-01,BX,BLACKSTONE INC,Financials,Financials,168.1000061035156,-18.0
@@ -21588,7 +21588,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-03,BX,BLACKSTONE INC,Financials,Financials,118.19,-19.0
 2026-11-04,BX,BLACKSTONE INC,Financials,Financials,125.57,-47.0
 2026-11-05,BX,BLACKSTONE INC,Financials,Financials,119.82,-10.0
-2026-11-06,BX,BLACKSTONE INC,Financials,Financials,119.5,-0.0
+2026-11-06,BX,BLACKSTONE INC,Financials,Financials,119.5,0.0
 2026-11-09,BX,BLACKSTONE INC,Financials,Financials,124.05,-53.0
 2026-11-10,BX,BLACKSTONE INC,Financials,Financials,122.53,-85.0
 2026-11-11,BX,BLACKSTONE INC,Financials,Financials,122.01,-100.0
@@ -25043,7 +25043,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-02,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,136.75,-63.0
 2026-11-03,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,135.52,-44.0
 2026-11-04,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,141.11,-14.0
-2026-11-05,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,136.35,-0.0
+2026-11-05,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,136.35,0.0
 2026-11-06,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,135.51,-44.0
 2026-11-09,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,138.17,-34.0
 2026-11-10,CBRE,"CBRE GROUP, INC.",Real Estate,Real Estate,134.79,-59.0
@@ -28791,8 +28791,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-06,CIEN,CIENA CORPORATION,Information Technology,Information Technology,243.39,-53.0
 2026-11-09,CIEN,CIENA CORPORATION,Information Technology,Information Technology,269.33,0.0
 2026-11-10,CIEN,CIENA CORPORATION,Information Technology,Information Technology,272.1,0.0
-2026-11-11,CIEN,CIENA CORPORATION,Information Technology,Information Technology,296.04,-0.0
-2026-11-12,CIEN,CIENA CORPORATION,Information Technology,Information Technology,293.99,-0.0
+2026-11-11,CIEN,CIENA CORPORATION,Information Technology,Information Technology,296.04,0.0
+2026-11-12,CIEN,CIENA CORPORATION,Information Technology,Information Technology,293.99,0.0
 2026-11-13,CIEN,CIENA CORPORATION,Information Technology,Information Technology,280.54,18.0
 2026-11-16,CIEN,CIENA CORPORATION,Information Technology,Information Technology,257.56,-5.0
 2026-11-17,CIEN,CIENA CORPORATION,Information Technology,Information Technology,264.82,-5.0
@@ -39452,8 +39452,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,CTVA,"CORTEVA, INC.",Materials,Materials,9.43,-29.0
 2026-11-16,CTVA,"CORTEVA, INC.",Materials,Materials,9.04,25.0
 2026-11-17,CTVA,"CORTEVA, INC.",Materials,Materials,8.82,0.0
-2026-11-18,CTVA,"CORTEVA, INC.",Materials,Materials,8.36,-0.0
-2026-11-19,CTVA,"CORTEVA, INC.",Materials,Materials,8.12,-0.0
+2026-11-18,CTVA,"CORTEVA, INC.",Materials,Materials,8.36,0.0
+2026-11-19,CTVA,"CORTEVA, INC.",Materials,Materials,8.12,0.0
 2026-11-20,CTVA,"CORTEVA, INC.",Materials,Materials,7.89,-0.0
 2025-10-01,CVNA,CARVANA CO.,Consumer Discretionary,Consumer Discretionary,79.08200073242188,-15.0
 2025-10-02,CVNA,CARVANA CO.,Consumer Discretionary,Consumer Discretionary,78.94200134277344,-15.0
@@ -42618,9 +42618,9 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-11,DDOG,"DATADOG, INC.",Information Technology,Information Technology,184.38,0.0
 2026-11-12,DDOG,"DATADOG, INC.",Information Technology,Information Technology,184.46,0.0
 2026-11-13,DDOG,"DATADOG, INC.",Information Technology,Information Technology,184.16,0.0
-2026-11-16,DDOG,"DATADOG, INC.",Information Technology,Information Technology,172.86,-0.0
-2026-11-17,DDOG,"DATADOG, INC.",Information Technology,Information Technology,165.18,-0.0
-2026-11-18,DDOG,"DATADOG, INC.",Information Technology,Information Technology,167.11,-0.0
+2026-11-16,DDOG,"DATADOG, INC.",Information Technology,Information Technology,172.86,0.0
+2026-11-17,DDOG,"DATADOG, INC.",Information Technology,Information Technology,165.18,0.0
+2026-11-18,DDOG,"DATADOG, INC.",Information Technology,Information Technology,167.11,0.0
 2026-11-19,DDOG,"DATADOG, INC.",Information Technology,Information Technology,166.46,0.0
 2026-11-20,DDOG,"DATADOG, INC.",Information Technology,Information Technology,157.37,0.0
 2025-10-01,DE,DEERE & COMPANY,Industrials,Industrials,451.7300109863281,14.0
@@ -43482,10 +43482,10 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-11,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,373.68,0.0
 2026-11-12,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,371.17,0.0
 2026-11-13,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,344.53,0.0
-2026-11-16,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,320.55,-0.0
-2026-11-17,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,322.79,-0.0
-2026-11-18,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,313.11,-0.0
-2026-11-19,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,312.54,-0.0
+2026-11-16,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,320.55,0.0
+2026-11-17,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,322.79,0.0
+2026-11-18,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,313.11,0.0
+2026-11-19,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,312.54,0.0
 2026-11-20,DELL,DELL TECHNOLOGIES INC.,Information Technology,Information Technology,278.02,0.0
 2025-10-01,DG,DOLLAR GENERAL ,Consumer Staples,Consumer Staples,99.68000030517578,18.0
 2025-10-02,DG,DOLLAR GENERAL ,Consumer Staples,Consumer Staples,101.4000015258789,47.0
@@ -45211,8 +45211,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-12,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,522.47,-17.0
 2026-11-13,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,523.15,-17.0
 2026-11-16,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,515.68,30.0
-2026-11-17,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,507.31,-0.0
-2026-11-18,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,501.73,-0.0
+2026-11-17,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,507.31,0.0
+2026-11-18,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,501.73,0.0
 2026-11-19,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,490.79,-14.0
 2026-11-20,DIA,SPDR DOW JONES INDUS AVG,,Sector & Style ETFs,481.08,13.0
 2025-10-01,DIS,THE WALT DISNEY COMPANY,Communication Services,Communication Services,112.9499969482422,36.0
@@ -50102,12 +50102,12 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-05,EC,ECOPETROL SA,,MR Discretion,15.54,-24.0
 2026-11-06,EC,ECOPETROL SA,,MR Discretion,15.55,-11.0
 2026-11-09,EC,ECOPETROL SA,,MR Discretion,15.61,-24.0
-2026-11-10,EC,ECOPETROL SA,,MR Discretion,15.26,-0.0
+2026-11-10,EC,ECOPETROL SA,,MR Discretion,15.26,0.0
 2026-11-11,EC,ECOPETROL SA,,MR Discretion,15.3,0.0
 2026-11-12,EC,ECOPETROL SA,,MR Discretion,15.32,0.0
-2026-11-13,EC,ECOPETROL SA,,MR Discretion,15.43,-0.0
-2026-11-16,EC,ECOPETROL SA,,MR Discretion,14.91,-0.0
-2026-11-17,EC,ECOPETROL SA,,MR Discretion,14.86,-0.0
+2026-11-13,EC,ECOPETROL SA,,MR Discretion,15.43,0.0
+2026-11-16,EC,ECOPETROL SA,,MR Discretion,14.91,0.0
+2026-11-17,EC,ECOPETROL SA,,MR Discretion,14.86,0.0
 2026-11-18,EC,ECOPETROL SA,,MR Discretion,14.07,-24.0
 2026-11-19,EC,ECOPETROL SA,,MR Discretion,13.37,-11.0
 2026-11-20,EC,ECOPETROL SA,,MR Discretion,13.36,-0.0
@@ -52977,7 +52977,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-29,EIDO,ISHARES:MSCI INDONESIA,,Foreign,10.08,48.0
 2026-10-30,EIDO,ISHARES:MSCI INDONESIA,,Foreign,9.96,37.0
 2026-11-02,EIDO,ISHARES:MSCI INDONESIA,,Foreign,10.03,13.0
-2026-11-03,EIDO,ISHARES:MSCI INDONESIA,,Foreign,9.66,-0.0
+2026-11-03,EIDO,ISHARES:MSCI INDONESIA,,Foreign,9.66,0.0
 2026-11-04,EIDO,ISHARES:MSCI INDONESIA,,Foreign,9.85,0.0
 2026-11-05,EIDO,ISHARES:MSCI INDONESIA,,Foreign,9.83,35.0
 2026-11-06,EIDO,ISHARES:MSCI INDONESIA,,Foreign,10.07,2.0
@@ -63915,8 +63915,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-21,EWS,ISHARES:MSCI SINGAPORE,,Foreign,31.31999969482422,0.0
 2026-10-22,EWS,ISHARES:MSCI SINGAPORE,,Foreign,31.15,0.0
 2026-10-23,EWS,ISHARES:MSCI SINGAPORE,,Foreign,31.08,0.0
-2026-10-26,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.97,-0.0
-2026-10-27,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.87,-0.0
+2026-10-26,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.97,0.0
+2026-10-27,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.87,0.0
 2026-10-28,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.88,0.0
 2026-10-29,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.89,0.0
 2026-10-30,EWS,ISHARES:MSCI SINGAPORE,,Foreign,30.63,0.0
@@ -69397,11 +69397,11 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-04,FFIV,"F5, INC.",Information Technology,Information Technology,329.72,0.0
 2026-11-05,FFIV,"F5, INC.",Information Technology,Information Technology,311.74,0.0
 2026-11-06,FFIV,"F5, INC.",Information Technology,Information Technology,310.84,0.0
-2026-11-09,FFIV,"F5, INC.",Information Technology,Information Technology,317.75,-0.0
+2026-11-09,FFIV,"F5, INC.",Information Technology,Information Technology,317.75,0.0
 2026-11-10,FFIV,"F5, INC.",Information Technology,Information Technology,317.31,0.0
 2026-11-11,FFIV,"F5, INC.",Information Technology,Information Technology,320.01,0.0
 2026-11-12,FFIV,"F5, INC.",Information Technology,Information Technology,317.64,0.0
-2026-11-13,FFIV,"F5, INC.",Information Technology,Information Technology,309.14,-0.0
+2026-11-13,FFIV,"F5, INC.",Information Technology,Information Technology,309.14,0.0
 2026-11-16,FFIV,"F5, INC.",Information Technology,Information Technology,304.68,0.0
 2026-11-17,FFIV,"F5, INC.",Information Technology,Information Technology,305.15,0.0
 2026-11-18,FFIV,"F5, INC.",Information Technology,Information Technology,321.04,0.0
@@ -70839,7 +70839,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-06,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1017.5,-29.0
 2026-11-09,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1113.23,4.0
 2026-11-10,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1105.93,0.0
-2026-11-11,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1161.63,-0.0
+2026-11-11,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1161.63,0.0
 2026-11-12,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1128.09,32.0
 2026-11-13,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1112.5,32.0
 2026-11-16,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,1057.68,2.0
@@ -71983,7 +71983,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-27,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,109.67,21.0
 2026-10-28,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,108.24,23.0
 2026-10-29,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,111.44,15.0
-2026-10-30,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,110.19,-0.0
+2026-10-30,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,110.19,0.0
 2026-11-02,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,111.37,-12.0
 2026-11-03,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,111.64,-22.0
 2026-11-04,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,114.63,-2.0
@@ -79479,7 +79479,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-06,GLW,CORNING INC.,Information Technology,Information Technology,106.13,-5.0
 2026-11-09,GLW,CORNING INC.,Information Technology,Information Technology,115.95,-39.0
 2026-11-10,GLW,CORNING INC.,Information Technology,Information Technology,112.13,-39.0
-2026-11-11,GLW,CORNING INC.,Information Technology,Information Technology,120.46,-0.0
+2026-11-11,GLW,CORNING INC.,Information Technology,Information Technology,120.46,0.0
 2026-11-12,GLW,CORNING INC.,Information Technology,Information Technology,119.5,-12.0
 2026-11-13,GLW,CORNING INC.,Information Technology,Information Technology,114.08,-15.0
 2026-11-16,GLW,CORNING INC.,Information Technology,Information Technology,106.17,-31.0
@@ -88107,8 +88107,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-21,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,208.1499938964844,-13.0
 2026-10-22,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,193.28,2.0
 2026-10-23,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,185.91,11.0
-2026-10-26,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,194.36,-0.0
-2026-10-27,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,191.99,-0.0
+2026-10-26,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,194.36,0.0
+2026-10-27,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,191.99,0.0
 2026-10-28,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,195.19,0.0
 2026-10-29,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,205.94,0.0
 2026-10-30,HWM,HOWMET AEROSPACE INC.,Industrials,Industrials,199.22,0.0
@@ -90707,8 +90707,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-02,IEX,IDEX ,Industrials,Industrials,236.52,47.0
 2026-11-03,IEX,IDEX ,Industrials,Industrials,237.36,47.0
 2026-11-04,IEX,IDEX ,Industrials,Industrials,233.69,39.0
-2026-11-05,IEX,IDEX ,Industrials,Industrials,222.6,-0.0
-2026-11-06,IEX,IDEX ,Industrials,Industrials,226.99,-0.0
+2026-11-05,IEX,IDEX ,Industrials,Industrials,222.6,0.0
+2026-11-06,IEX,IDEX ,Industrials,Industrials,226.99,0.0
 2026-11-09,IEX,IDEX ,Industrials,Industrials,235.93,62.0
 2026-11-10,IEX,IDEX ,Industrials,Industrials,236.9,62.0
 2026-11-11,IEX,IDEX ,Industrials,Industrials,239.96,52.0
@@ -90717,7 +90717,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-16,IEX,IDEX ,Industrials,Industrials,233.57,23.0
 2026-11-17,IEX,IDEX ,Industrials,Industrials,232.59,23.0
 2026-11-18,IEX,IDEX ,Industrials,Industrials,233.14,23.0
-2026-11-19,IEX,IDEX ,Industrials,Industrials,227.01,-0.0
+2026-11-19,IEX,IDEX ,Industrials,Industrials,227.01,0.0
 2026-11-20,IEX,IDEX ,Industrials,Industrials,219.64,2.0
 2025-10-01,IFF,INTERNATIONAL FLAVORS & FRAGRANCES INC.,Materials,Materials,60.95999908447266,47.0
 2025-10-02,IFF,INTERNATIONAL FLAVORS & FRAGRANCES INC.,Materials,Materials,61.5099983215332,47.0
@@ -91866,9 +91866,9 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-11,INTC,INTEL ,Information Technology,Information Technology,62.5,0.0
 2026-11-12,INTC,INTEL ,Information Technology,Information Technology,61.2,0.0
 2026-11-13,INTC,INTEL ,Information Technology,Information Technology,59.66,0.0
-2026-11-16,INTC,INTEL ,Information Technology,Information Technology,55.47,-0.0
-2026-11-17,INTC,INTEL ,Information Technology,Information Technology,55.17,-0.0
-2026-11-18,INTC,INTEL ,Information Technology,Information Technology,54.67,-0.0
+2026-11-16,INTC,INTEL ,Information Technology,Information Technology,55.47,0.0
+2026-11-17,INTC,INTEL ,Information Technology,Information Technology,55.17,0.0
+2026-11-18,INTC,INTEL ,Information Technology,Information Technology,54.67,0.0
 2026-11-19,INTC,INTEL ,Information Technology,Information Technology,55.72,0.0
 2026-11-20,INTC,INTEL ,Information Technology,Information Technology,51.28,0.0
 2025-10-01,INTU,INTUIT INC.,Information Technology,Information Technology,679.5,-14.0
@@ -102308,7 +102308,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-02,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,355.59,17.0
 2026-11-03,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,353.92,17.0
 2026-11-04,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,367.79,-3.0
-2026-11-05,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,363.3,-0.0
+2026-11-05,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,363.3,0.0
 2026-11-06,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,366.57,-19.0
 2026-11-09,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,371.83,-29.0
 2026-11-10,LH,LABORATORY  OF AMERICA HOLDINGS,Health Care,Health Care,370.88,-3.0
@@ -103461,16 +103461,16 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-03,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,680.16,-38.0
 2026-11-04,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,626.75,-29.0
 2026-11-05,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,509.7,-28.0
-2026-11-06,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,538.59,-0.0
+2026-11-06,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,538.59,0.0
 2026-11-09,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,596.16,0.0
 2026-11-10,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,585.57,0.0
 2026-11-11,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,648.06,0.0
 2026-11-12,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,624.65,0.0
 2026-11-13,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,596.62,0.0
-2026-11-16,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,546.0,-0.0
-2026-11-17,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,559.97,-0.0
-2026-11-18,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,551.07,-0.0
-2026-11-19,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,535.15,-0.0
+2026-11-16,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,546.0,0.0
+2026-11-17,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,559.97,0.0
+2026-11-18,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,551.07,0.0
+2026-11-19,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,535.15,0.0
 2026-11-20,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,460.54,-0.0
 2025-10-01,LLY,ELI LILLY AND COMPANY,Health Care,Health Care,825.4199829101562,-41.0
 2025-10-02,LLY,ELI LILLY AND COMPANY,Health Care,Health Care,819.8499755859375,1.0
@@ -108929,7 +108929,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-28,MCK,MCKESSON ,Health Care,Health Care,960.56,-22.0
 2026-10-29,MCK,MCKESSON ,Health Care,Health Care,980.88,-50.0
 2026-10-30,MCK,MCKESSON ,Health Care,Health Care,994.58,-28.0
-2026-11-02,MCK,MCKESSON ,Health Care,Health Care,998.38,-0.0
+2026-11-02,MCK,MCKESSON ,Health Care,Health Care,998.38,0.0
 2026-11-03,MCK,MCKESSON ,Health Care,Health Care,999.62,6.0
 2026-11-04,MCK,MCKESSON ,Health Care,Health Care,1069.44,13.0
 2026-11-05,MCK,MCKESSON ,Health Care,Health Care,1072.0,-9.0
@@ -110093,7 +110093,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,672.7,-17.0
 2026-11-16,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,662.97,-25.0
 2026-11-17,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,654.33,16.0
-2026-11-18,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,656.18,-0.0
+2026-11-18,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,656.18,0.0
 2026-11-19,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,643.03,16.0
 2026-11-20,MDY,SPDR S&P MIDCAP 400 ETF,,Sector & Style ETFs,626.03,41.0
 2025-10-01,MET,"METLIFE, INC.",Financials,Financials,81.93000030517578,-20.0
@@ -113542,7 +113542,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-04,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1261.08,57.0
 2026-11-05,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1131.43,15.0
 2026-11-06,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1190.44,41.0
-2026-11-09,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1388.05,-0.0
+2026-11-09,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1388.05,0.0
 2026-11-10,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1357.6,4.0
 2026-11-11,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1478.69,-23.0
 2026-11-12,MPWR,"MONOLITHIC POWER SYSTEMS, INC.",Information Technology,Information Technology,1447.4,-9.0
@@ -114699,9 +114699,9 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-11,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,168.8,0.0
 2026-11-12,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,164.45,0.0
 2026-11-13,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,156.76,0.0
-2026-11-16,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,145.36,-0.0
-2026-11-17,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,148.74,-0.0
-2026-11-18,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,145.54,-0.0
+2026-11-16,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,145.36,0.0
+2026-11-17,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,148.74,0.0
+2026-11-18,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,145.54,0.0
 2026-11-19,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,138.47,0.0
 2026-11-20,MRVL,"MARVELL TECHNOLOGY, INC.",Information Technology,Information Technology,122.28,0.0
 2025-10-01,MS,MORGAN STANLEY,Financials,Financials,156.8899993896484,-4.0
@@ -116715,10 +116715,10 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-11,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,69.26,0.0
 2026-11-12,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,69.36,0.0
 2026-11-13,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,67.98,0.0
-2026-11-16,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,65.71,-0.0
-2026-11-17,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,65.3,-0.0
-2026-11-18,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,65.205,-0.0
-2026-11-19,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,63.9,-0.0
+2026-11-16,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,65.71,0.0
+2026-11-17,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,65.3,0.0
+2026-11-18,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,65.205,0.0
+2026-11-19,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,63.9,0.0
 2026-11-20,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,60.27,-0.0
 2025-10-01,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,182.1499938964844,10.0
 2025-10-02,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,183.75,26.0
@@ -117005,8 +117005,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,778.31,0.0
 2026-11-16,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,719.02,-6.0
 2026-11-17,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,712.42,-6.0
-2026-11-18,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,705.27,-0.0
-2026-11-19,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,690.44,-0.0
+2026-11-18,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,705.27,0.0
+2026-11-19,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,690.44,0.0
 2026-11-20,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,594.51,-0.0
 2025-10-01,MUB,ISHARES:NATL MUNI BOND,,Bonds,106.3899993896484,-3.0
 2025-10-02,MUB,ISHARES:NATL MUNI BOND,,Bonds,106.3600006103516,-3.0
@@ -122189,8 +122189,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,NTAP,"NETAPP, INC.",Information Technology,Information Technology,181.37,15.0
 2026-11-16,NTAP,"NETAPP, INC.",Information Technology,Information Technology,177.85,13.0
 2026-11-17,NTAP,"NETAPP, INC.",Information Technology,Information Technology,173.04,13.0
-2026-11-18,NTAP,"NETAPP, INC.",Information Technology,Information Technology,172.19,-0.0
-2026-11-19,NTAP,"NETAPP, INC.",Information Technology,Information Technology,170.18,-0.0
+2026-11-18,NTAP,"NETAPP, INC.",Information Technology,Information Technology,172.19,0.0
+2026-11-19,NTAP,"NETAPP, INC.",Information Technology,Information Technology,170.18,0.0
 2026-11-20,NTAP,"NETAPP, INC.",Information Technology,Information Technology,157.65,41.0
 2025-10-01,NTRS,NORTHERN TRUST ,Financials,Financials,131.1999969482422,18.0
 2025-10-02,NTRS,NORTHERN TRUST ,Financials,Financials,133.2400054931641,-13.0
@@ -123042,19 +123042,19 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-29,NVDA,NVIDIA ,Information Technology,Information Technology,213.66,58.0
 2026-10-30,NVDA,NVIDIA ,Information Technology,Information Technology,204.64,47.0
 2026-11-02,NVDA,NVIDIA ,Information Technology,Information Technology,202.06,-20.0
-2026-11-03,NVDA,NVIDIA ,Information Technology,Information Technology,206.69,-0.0
+2026-11-03,NVDA,NVIDIA ,Information Technology,Information Technology,206.69,0.0
 2026-11-04,NVDA,NVIDIA ,Information Technology,Information Technology,200.13,28.0
 2026-11-05,NVDA,NVIDIA ,Information Technology,Information Technology,181.6,-13.0
 2026-11-06,NVDA,NVIDIA ,Information Technology,Information Technology,186.64,-13.0
 2026-11-09,NVDA,NVIDIA ,Information Technology,Information Technology,178.67,41.0
 2026-11-10,NVDA,NVIDIA ,Information Technology,Information Technology,168.89,-13.0
-2026-11-11,NVDA,NVIDIA ,Information Technology,Information Technology,173.73,-0.0
+2026-11-11,NVDA,NVIDIA ,Information Technology,Information Technology,173.73,0.0
 2026-11-12,NVDA,NVIDIA ,Information Technology,Information Technology,166.19,-13.0
-2026-11-13,NVDA,NVIDIA ,Information Technology,Information Technology,162.85,-0.0
-2026-11-16,NVDA,NVIDIA ,Information Technology,Information Technology,156.14,-0.0
-2026-11-17,NVDA,NVIDIA ,Information Technology,Information Technology,155.46,-0.0
-2026-11-18,NVDA,NVIDIA ,Information Technology,Information Technology,150.96,-0.0
-2026-11-19,NVDA,NVIDIA ,Information Technology,Information Technology,145.98,-0.0
+2026-11-13,NVDA,NVIDIA ,Information Technology,Information Technology,162.85,0.0
+2026-11-16,NVDA,NVIDIA ,Information Technology,Information Technology,156.14,0.0
+2026-11-17,NVDA,NVIDIA ,Information Technology,Information Technology,155.46,0.0
+2026-11-18,NVDA,NVIDIA ,Information Technology,Information Technology,150.96,0.0
+2026-11-19,NVDA,NVIDIA ,Information Technology,Information Technology,145.98,0.0
 2026-11-20,NVDA,NVIDIA ,Information Technology,Information Technology,125.53,-0.0
 2025-10-01,NVR,"NVR, INC.",Consumer Discretionary,Consumer Discretionary,8036.47998046875,-5.0
 2025-10-02,NVR,"NVR, INC.",Consumer Discretionary,Consumer Discretionary,8071.60986328125,-53.0
@@ -125172,7 +125172,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-02-20,OKTA,"OKTA, INC.",Information Technology,Information Technology,74.29,-69.0
 2026-02-23,OKTA,"OKTA, INC.",Information Technology,Information Technology,69.51,-43.0
 2026-02-24,OKTA,"OKTA, INC.",Information Technology,Information Technology,71.14,-43.0
-2026-02-25,OKTA,"OKTA, INC.",Information Technology,Information Technology,73.005,-0.0
+2026-02-25,OKTA,"OKTA, INC.",Information Technology,Information Technology,73.005,0.0
 2026-02-26,OKTA,"OKTA, INC.",Information Technology,Information Technology,75.25,0.0
 2026-02-27,OKTA,"OKTA, INC.",Information Technology,Information Technology,72.5,0.0
 2026-03-02,OKTA,"OKTA, INC.",Information Technology,Information Technology,73.97,-4.0
@@ -125206,8 +125206,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-04-10,OKTA,"OKTA, INC.",Information Technology,Information Technology,62.93,-21.0
 2026-04-13,OKTA,"OKTA, INC.",Information Technology,Information Technology,65.46,-24.0
 2026-04-14,OKTA,"OKTA, INC.",Information Technology,Information Technology,64.09,-27.0
-2026-04-15,OKTA,"OKTA, INC.",Information Technology,Information Technology,67.35,-0.0
-2026-04-16,OKTA,"OKTA, INC.",Information Technology,Information Technology,72.01,-0.0
+2026-04-15,OKTA,"OKTA, INC.",Information Technology,Information Technology,67.35,0.0
+2026-04-16,OKTA,"OKTA, INC.",Information Technology,Information Technology,72.01,0.0
 2026-04-17,OKTA,"OKTA, INC.",Information Technology,Information Technology,72.25,-13.0
 2026-04-20,OKTA,"OKTA, INC.",Information Technology,Information Technology,75.76,-18.0
 2026-04-21,OKTA,"OKTA, INC.",Information Technology,Information Technology,77.64,-18.0
@@ -128231,14 +128231,14 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-05,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.8,-11.0
 2026-11-06,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.53,-32.0
 2026-11-09,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.35,-32.0
-2026-11-10,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.28,-0.0
-2026-11-11,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,17.82,-0.0
-2026-11-12,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.1,-0.0
-2026-11-13,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.34,-0.0
+2026-11-10,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.28,0.0
+2026-11-11,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,17.82,0.0
+2026-11-12,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.1,0.0
+2026-11-13,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,18.34,0.0
 2026-11-16,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,17.3,0.0
 2026-11-17,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,17.41,0.0
 2026-11-18,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,16.73,0.0
-2026-11-19,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,16.29,-0.0
+2026-11-19,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,16.29,0.0
 2026-11-20,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,16.01,-0.0
 2025-10-01,PCAR,PACCAR INC,Industrials,Industrials,97.70999908447266,-18.0
 2025-10-02,PCAR,PACCAR INC,Industrials,Industrials,99.08000183105467,-39.0
@@ -132262,14 +132262,14 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-04,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,171.7,-28.0
 2026-11-05,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,154.99,-38.0
 2026-11-06,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,160.38,-2.0
-2026-11-09,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,169.2,-0.0
-2026-11-10,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,168.82,-0.0
-2026-11-11,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,172.4,-0.0
+2026-11-09,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,169.2,0.0
+2026-11-10,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,168.82,0.0
+2026-11-11,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,172.4,0.0
 2026-11-12,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,171.58,-5.0
 2026-11-13,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,167.99,26.0
 2026-11-16,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,160.39,26.0
 2026-11-17,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,156.56,-28.0
-2026-11-18,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,156.67,-0.0
+2026-11-18,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,156.67,0.0
 2026-11-19,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,153.68,0.0
 2026-11-20,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,143.49,-0.0
 2025-10-01,PM,PHILIP MORRIS INTERNATIONAL INC.,Consumer Staples,Consumer Staples,160.8600006103516,-26.0
@@ -138010,9 +138010,9 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-12,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,56.05,0.0
 2026-11-13,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,56.02,0.0
 2026-11-16,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,55.16,0.0
-2026-11-17,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,54.49,-0.0
-2026-11-18,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,54.42,-0.0
-2026-11-19,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,53.31,-0.0
+2026-11-17,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,54.49,0.0
+2026-11-18,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,54.42,0.0
+2026-11-19,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,53.31,0.0
 2026-11-20,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,51.87,-0.0
 2025-10-01,RCL,ROYAL CARIBBEAN CRUISES LTD.,Consumer Discretionary,Consumer Discretionary,316.0199890136719,19.0
 2025-10-02,RCL,ROYAL CARIBBEAN CRUISES LTD.,Consumer Discretionary,Consumer Discretionary,320.1099853515625,-33.0
@@ -142332,7 +142332,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-16,RSP,INVESCO S&P500 EWGHT,,Sector & Style ETFs,218.93,-59.0
 2026-11-17,RSP,INVESCO S&P500 EWGHT,,Sector & Style ETFs,215.76,-22.0
 2026-11-18,RSP,INVESCO S&P500 EWGHT,,Sector & Style ETFs,215.43,-16.0
-2026-11-19,RSP,INVESCO S&P500 EWGHT,,Sector & Style ETFs,211.63,-0.0
+2026-11-19,RSP,INVESCO S&P500 EWGHT,,Sector & Style ETFs,211.63,0.0
 2026-11-20,RSP,INVESCO S&P500 EWGHT,,Sector & Style ETFs,207.44,39.0
 2025-10-01,RTX,RTX ,Industrials,Industrials,167.1999969482422,61.0
 2025-10-02,RTX,RTX ,Industrials,Industrials,166.6300048828125,40.0
@@ -145786,9 +145786,9 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-12,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.14,13.0
 2026-11-13,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.17,35.0
 2026-11-16,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.23,0.0
-2026-11-17,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.32,-0.0
-2026-11-18,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.34,-0.0
-2026-11-19,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.38,-0.0
+2026-11-17,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.32,0.0
+2026-11-18,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.34,0.0
+2026-11-19,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.38,0.0
 2026-11-20,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,81.61,-0.0
 2025-10-01,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,23.31999969482422,56.0
 2025-10-02,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,23.02000045776367,29.0
@@ -146062,7 +146062,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-27,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,24.3,11.0
 2026-10-28,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,24.53,0.0
 2026-10-29,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,23.87,0.0
-2026-10-30,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,22.49,-0.0
+2026-10-30,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,22.49,0.0
 2026-11-02,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,22.78,-35.0
 2026-11-03,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,22.4,-57.0
 2026-11-04,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,24.41,-22.0
@@ -148091,8 +148091,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,486.75,48.0
 2026-11-16,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,461.9,-6.0
 2026-11-17,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,460.1,-29.0
-2026-11-18,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,459.54,-0.0
-2026-11-19,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,447.48,-0.0
+2026-11-18,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,459.54,0.0
+2026-11-19,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,447.48,0.0
 2026-11-20,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,400.06,-38.0
 2025-10-01,SNA,SNAP-ON INC.,Industrials,Industrials,345.239990234375,-15.0
 2025-10-02,SNA,SNAP-ON INC.,Industrials,Industrials,349.1300048828125,-20.0
@@ -148382,294 +148382,294 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-18,SNA,SNAP-ON INC.,Industrials,Industrials,361.97,-3.0
 2026-11-19,SNA,SNAP-ON INC.,Industrials,Industrials,357.22,35.0
 2026-11-20,SNA,SNAP-ON INC.,Industrials,Industrials,348.88,28.0
-2025-10-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,121.120002746582,4.0
-2025-10-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,124.1399993896484,-21.0
-2025-10-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,128.4100036621094,-24.0
-2025-10-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,121.1699981689453,-21.0
-2025-10-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,120.9499969482422,-21.0
-2025-10-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,131.8800048828125,-19.0
-2025-10-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,129.6799926757812,-17.0
-2025-10-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,116.9100036621094,-7.0
-2025-10-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,134.6100006103516,-14.0
-2025-10-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,127.2900009155273,-7.0
-2025-10-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,144.3000030517578,14.0
-2025-10-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,144.2700042724609,24.0
-2025-10-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,140.1600036621094,24.0
-2025-10-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,148.0399932861328,-5.0
-2025-10-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,149.2899932861328,-5.0
-2025-10-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,146.9499969482422,-14.0
-2025-10-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,167.0500030517578,-14.0
-2025-10-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,186.1600036621094,8.0
-2025-10-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,176.4900054931641,14.0
-2025-10-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,175.5299987792969,14.0
-2025-10-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,204.3600006103516,12.0
-2025-10-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,195.8200073242188,12.0
-2025-10-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,199.3300018310547,12.0
-2025-11-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,207.0099945068359,12.0
-2025-11-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,194.5700073242188,16.0
-2025-11-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,216.5,-14.0
-2025-11-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,207.6900024414062,-17.0
-2025-11-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,239.4799957275391,10.0
-2025-11-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,267.9500122070312,10.0
-2025-11-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,271.5799865722656,10.0
-2025-11-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,283.1000061035156,10.0
-2025-11-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,243.5700073242188,-14.0
-2025-11-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,254.1600036621094,-14.0
-2025-11-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,265.8800048828125,-62.0
-2025-11-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,244.9299926757812,-53.0
-2025-11-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,245.9600067138672,-62.0
-2025-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,195.9600067138672,-26.0
-2025-11-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,200.2700042724609,-49.0
-2025-11-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,226.9600067138672,-5.0
-2025-11-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,220.5,24.0
-2025-11-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,215.0399932861328,5.0
-2025-11-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,223.2799987792969,-5.0
-2025-12-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,210.1699981689453,-59.0
-2025-12-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,205.3500061035156,-59.0
-2025-12-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,194.3800048828125,-59.0
-2025-12-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,213.3099975585938,-59.0
-2025-12-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,228.4700012207031,-17.0
-2025-12-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,225.4700012207031,-8.0
-2025-12-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,219.4600067138672,-25.0
-2025-12-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,232.8600006103516,-19.0
-2025-12-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,241.6100006103516,-19.0
-2025-12-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,206.1799926757812,-19.0
-2025-12-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,201.8699951171875,-19.0
-2025-12-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,209.3099975585938,-69.0
-2025-12-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,206.8300018310547,-69.0
-2025-12-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,219.4600067138672,-19.0
-2025-12-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,237.6100006103516,-27.0
-2025-12-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,241.0500030517578,-27.0
-2025-12-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,244.8999938964844,-25.0
-2025-12-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,250.0800018310547,-25.0
-2025-12-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,250.0500030517578,-25.0
-2025-12-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,244.25,-72.0
-2025-12-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,240.2200012207031,-75.0
-2025-12-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,237.3800048828125,-48.0
-2026-01-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,275.239990234375,-5.0
-2026-01-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,274.0799865722656,64.0
-2026-01-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,349.6300048828125,46.0
-2026-01-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,353.5599975585938,35.0
-2026-01-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,334.5400085449219,57.0
-2026-01-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,377.4100036621094,35.0
-2026-01-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,389.2699890136719,38.0
-2026-01-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,389.8099975585938,7.0
-2026-01-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,387.8099975585938,4.0
-2026-01-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,409.239990234375,33.0
-2026-01-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,413.6199951171875,4.0
-2026-01-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,453.1199951171875,4.0
-2026-01-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,501.2900085449219,31.0
-2026-01-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,503.4400024414062,4.0
-2026-01-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,473.8299865722656,4.0
-2026-01-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,470.7999877929688,4.0
-2026-01-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,481.4299926757812,4.0
-2026-01-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,527.6300048828125,2.0
-2026-01-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,539.2999877929688,26.0
-2026-01-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,576.25,-5.0
-2026-02-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,665.239990234375,39.0
-2026-02-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,695.510009765625,30.0
-2026-02-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,584.5499877929688,27.0
-2026-02-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,576.2000122070312,9.0
-2026-02-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,597.9500122070312,5.0
-2026-02-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,583.4000244140625,-35.0
-2026-02-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,541.6400146484375,-26.0
-2026-02-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,599.3400268554688,-11.0
-2026-02-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,630.2899780273438,-9.0
-2026-02-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,626.5599975585938,-24.0
-2026-02-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,590.5900268554688,11.0
-2026-02-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,600.4000244140625,18.0
-2026-02-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,621.0900268554688,20.0
-2026-02-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,649.969970703125,20.0
-2026-02-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,666.489990234375,45.0
-2026-02-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,638.52001953125,20.0
-2026-02-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,632.3800048828125,20.0
-2026-02-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,651.9000244140625,20.0
-2026-02-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,635.3599853515625,45.0
-2026-03-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,619.0800170898438,-23.0
-2026-03-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,565.4099731445312,-23.0
-2026-03-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,599.0599975585938,60.0
-2026-03-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,565.5900268554688,-23.0
-2026-03-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,527.3300170898438,-7.0
-2026-03-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,588.72998046875,7.0
-2026-03-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,618.8900146484375,60.0
-2026-03-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,655.4299926757812,21.0
-2026-03-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,618.8200073242188,60.0
-2026-03-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,661.6199951171875,60.0
-2026-03-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,703.6300048828125,41.0
-2026-03-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,720.1699829101562,83.0
-2026-03-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,753.6900024414062,53.0
-2026-03-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,772.0900268554688,83.0
-2026-03-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,709.7100219726562,80.0
-2026-03-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,702.489990234375,24.0
-2026-03-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,702.47998046875,51.0
-2026-03-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,677.8599853515625,-3.0
-2026-03-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,603.1699829101562,15.0
-2026-03-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,615.8300170898438,69.0
-2026-03-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,572.5,-12.0
-2026-03-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,635.3400268554688,5.0
-2026-04-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,692.72998046875,59.0
-2026-04-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,701.5900268554688,32.0
-2026-04-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,724.6300048828125,52.0
-2026-04-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,710.7999877929688,5.0
-2026-04-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,780.9000244140625,62.0
-2026-04-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,851.5700073242188,62.0
-2026-04-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,851.77001953125,62.0
-2026-04-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,952.5,62.0
-2026-04-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,944.4600219726562,62.0
-2026-04-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,891.719970703125,62.0
-2026-04-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,919.469970703125,62.0
-2026-04-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,920.989990234375,62.0
-2026-04-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,913.02001953125,62.0
-2026-04-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,903.489990234375,53.0
-2026-04-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,979.0700073242188,53.0
-2026-04-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,932.4299926757812,8.0
-2026-04-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,989.9000244140624,-15.0
-2026-04-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1070.199951171875,14.0
-2026-04-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1002.349975585938,7.0
-2026-04-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1064.2099609375,-6.0
-2026-04-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1096.510009765625,-7.0
-2026-05-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1187.0,-28.0
-2026-05-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1255.859985351562,-18.0
-2026-05-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1406.319946289062,65.0
-2026-05-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1409.97998046875,46.0
-2026-05-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1339.9599609375,54.0
-2026-05-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1562.339965820312,75.0
-2026-05-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1547.56005859375,81.0
-2026-05-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1452.02001953125,51.0
-2026-05-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1447.22998046875,81.0
-2026-05-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1382.719970703125,51.0
-2026-05-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1407.609985351562,24.0
-2026-05-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1333.010009765625,-19.0
-2026-05-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1383.2900390625,-28.0
-2026-05-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1392.56005859375,8.0
-2026-05-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1542.239990234375,24.0
-2026-05-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1478.68994140625,34.0
-2026-05-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1589.550048828125,60.0
-2026-05-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1589.93994140625,21.0
-2026-05-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1641.640014648438,50.0
-2026-05-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1694.97998046875,31.0
-2026-06-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1761.430053710938,40.0
-2026-06-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1716.359985351562,51.0
-2026-06-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1831.5,53.0
-2026-06-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1759.680053710938,80.0
-2026-06-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1559.319946289062,42.0
-2026-06-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1642.0,98.0
-2026-06-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1646.5400390625,76.0
-2026-06-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1643.22998046875,76.0
-2026-06-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1881.510009765625,83.0
-2026-06-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1980.099975585938,83.0
-2026-06-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2107.860107421875,43.0
-2026-06-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1991.550048828125,34.0
-2026-06-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1958.800048828125,-1.0
-2026-06-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2184.75,-2.0
-2026-06-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2273.72998046875,91.0
-2026-06-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1963.599975585938,62.0
-2026-06-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1914.4599609375,67.0
-2026-06-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2335.0,75.0
-2026-06-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2090.7099609375,38.0
-2026-06-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2050.389892578125,85.0
-2026-06-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2273.72998046875,75.0
-2026-07-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,2032.219970703125,82.0
-2026-07-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1745.0,42.0
-2026-07-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1744.430053710938,-1.0
-2026-07-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1617.699951171875,-1.0
-2026-07-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1727.180053710938,-12.0
-2026-07-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1858.27001953125,-12.0
-2026-07-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1915.920043945312,42.0
-2026-07-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1673.969970703125,-1.0
-2026-07-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1757.819946289062,-12.0
-2026-07-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1615.0,-38.0
-2026-07-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1411.079956054688,-38.0
-2026-07-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1354.819946289062,-38.0
-2026-07-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1390.949951171875,-13.0
-2026-07-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1589.400024414062,0.0
-2026-07-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1599.27001953125,0.0
-2026-07-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1610.329956054688,0.0
-2026-07-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1436.56005859375,14.0
-2026-07-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1278.22998046875,-48.0
-2026-07-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1096.099975585938,-48.0
-2026-07-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1015.890014648438,-47.0
-2026-07-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1279.9599609375,0.0
-2026-07-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1214.829956054688,0.0
-2026-08-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1288.030029296875,14.0
-2026-08-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1427.619995117188,53.0
-2026-08-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1350.5,14.0
-2026-08-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1258.579956054688,14.0
-2026-08-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1212.2099609375,14.0
-2026-08-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1237.920043945312,14.0
-2026-08-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1271.050048828125,-38.0
-2026-08-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1344.2900390625,34.0
-2026-08-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1528.109985351562,26.0
-2026-08-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1641.109985351562,21.0
-2026-08-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1786.849975585938,30.0
-2026-08-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1625.780029296875,39.0
-2026-08-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1568.869995117188,42.0
-2026-08-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1600.619995117188,29.0
-2026-08-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1596.079956054688,10.0
-2026-08-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1493.119995117188,0.0
-2026-08-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1480.77001953125,-9.0
-2026-08-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1499.369995117188,-16.0
-2026-08-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1484.949951171875,17.0
-2026-08-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1484.97998046875,6.0
-2026-08-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1566.699951171875,-9.0
-2026-09-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1536.869995117188,-14.0
-2026-09-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1553.400024414062,-24.0
-2026-09-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1554.989990234375,-24.0
-2026-09-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1740.0,-31.0
-2026-09-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1737.989990234375,-31.0
-2026-09-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1764.170043945312,0.0
-2026-09-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1692.589965820312,0.0
-2026-09-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1633.349975585938,-15.0
-2026-09-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1551.989990234375,0.0
-2026-09-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1530.89501953125,-4.0
-2026-09-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1519.969970703125,30.0
-2026-09-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1614.390014648438,53.0
-2026-09-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1791.819946289062,0.0
-2026-09-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1766.640014648438,29.0
-2026-09-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1887.0400390625,29.0
-2026-09-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1816.569946289062,29.0
-2026-09-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1753.619995117188,-22.0
-2026-09-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1777.800048828125,-22.0
-2026-09-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1712.890014648438,0.0
-2026-09-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1729.760009765625,0.0
-2026-09-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1739.890014648438,29.0
-2026-10-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1787.68994140625,-2.0
-2026-10-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1719.989990234375,17.0
-2026-10-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1704.160034179688,26.0
-2026-10-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1660.4599609375,26.0
-2026-10-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1692.420043945312,26.0
-2026-10-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1609.4599609375,8.0
-2026-10-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1581.819946289062,8.0
-2026-10-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1487.329956054688,8.0
-2026-10-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1482.329956054688,45.0
-2026-10-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1403.339965820312,15.0
-2026-10-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1394.829956054688,-63.0
-2026-10-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1299.300048828125,-35.0
-2026-10-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1371.119995117188,3.0
-2026-10-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1365.380004882812,3.0
-2026-10-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1378.219970703125,3.0
-2026-10-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1260.93,-35.0
-2026-10-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1238.03,-35.0
-2026-10-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1255.58,17.0
-2026-10-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1304.84,47.0
-2026-10-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1404.77,47.0
-2026-10-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1330.05,55.0
-2026-10-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1150.89,31.0
-2026-11-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1075.08,-23.0
-2026-11-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1126.52,31.0
-2026-11-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,1037.4,-53.0
-2026-11-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,806.43,-53.0
-2026-11-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,835.06,-53.0
-2026-11-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,886.51,-53.0
-2026-11-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,859.99,-0.0
-2026-11-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,977.69,0.0
-2026-11-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,937.46,0.0
-2026-11-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,885.01,0.0
-2026-11-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,809.11,-0.0
-2026-11-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,797.24,-31.0
-2026-11-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,776.22,-0.0
-2026-11-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,755.16,-0.0
-2026-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,79.24,-21.0
+2025-10-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,15.14,4.0
+2025-10-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,15.5175,-21.0
+2025-10-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,16.0513,-24.0
+2025-10-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,15.1463,-21.0
+2025-10-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,15.1188,-21.0
+2025-10-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,16.485,-19.0
+2025-10-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,16.21,-17.0
+2025-10-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,14.6138,-7.0
+2025-10-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,16.8263,-14.0
+2025-10-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,15.9113,-7.0
+2025-10-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,18.0375,14.0
+2025-10-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,18.0338,24.0
+2025-10-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,17.52,24.0
+2025-10-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,18.505,-5.0
+2025-10-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,18.6613,-5.0
+2025-10-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,18.3688,-14.0
+2025-10-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,20.8813,-14.0
+2025-10-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,23.27,8.0
+2025-10-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,22.0613,14.0
+2025-10-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,21.9413,14.0
+2025-10-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.545,12.0
+2025-10-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,24.4775,12.0
+2025-10-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,24.9163,12.0
+2025-11-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.8763,12.0
+2025-11-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,24.3213,16.0
+2025-11-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,27.0625,-14.0
+2025-11-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.9613,-17.0
+2025-11-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,29.935,10.0
+2025-11-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,33.4938,10.0
+2025-11-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,33.9475,10.0
+2025-11-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,35.3875,10.0
+2025-11-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.4463,-14.0
+2025-11-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,31.77,-14.0
+2025-11-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,33.235,-62.0
+2025-11-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.6163,-53.0
+2025-11-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.745,-62.0
+2025-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,24.495,-26.0
+2025-11-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.0338,-49.0
+2025-11-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,28.37,-5.0
+2025-11-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,27.5625,24.0
+2025-11-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,26.88,5.0
+2025-11-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,27.91,-5.0
+2025-12-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,26.2713,-59.0
+2025-12-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.6688,-59.0
+2025-12-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,24.2975,-59.0
+2025-12-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,26.6638,-59.0
+2025-12-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,28.5588,-17.0
+2025-12-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,28.1838,-8.0
+2025-12-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,27.4325,-25.0
+2025-12-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,29.1075,-19.0
+2025-12-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.2013,-19.0
+2025-12-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.7725,-19.0
+2025-12-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.2338,-19.0
+2025-12-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,26.1638,-69.0
+2025-12-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,25.8538,-69.0
+2025-12-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,27.4325,-19.0
+2025-12-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,29.7013,-27.0
+2025-12-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.1313,-27.0
+2025-12-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.6125,-25.0
+2025-12-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,31.26,-25.0
+2025-12-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,31.2563,-25.0
+2025-12-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.5313,-72.0
+2025-12-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,30.0275,-75.0
+2025-12-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,29.6725,-48.0
+2026-01-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,34.405,-5.0
+2026-01-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,34.26,64.0
+2026-01-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,43.7038,46.0
+2026-01-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,44.195,35.0
+2026-01-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,41.8175,57.0
+2026-01-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,47.1763,35.0
+2026-01-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,48.6588,38.0
+2026-01-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,48.7263,7.0
+2026-01-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,48.4763,4.0
+2026-01-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,51.155,33.0
+2026-01-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,51.7025,4.0
+2026-01-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,56.64,4.0
+2026-01-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,62.6613,31.0
+2026-01-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,62.93,4.0
+2026-01-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,59.2288,4.0
+2026-01-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,58.85,4.0
+2026-01-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,60.1788,4.0
+2026-01-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,65.9538,2.0
+2026-01-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,67.4125,26.0
+2026-01-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,72.0313,-5.0
+2026-02-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,83.155,39.0
+2026-02-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,86.9388,30.0
+2026-02-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,73.0688,27.0
+2026-02-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,72.025,9.0
+2026-02-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,74.7438,5.0
+2026-02-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,72.925,-35.0
+2026-02-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,67.705,-26.0
+2026-02-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,74.9175,-11.0
+2026-02-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,78.7863,-9.0
+2026-02-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,78.32,-24.0
+2026-02-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,73.8238,11.0
+2026-02-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,75.05,18.0
+2026-02-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,77.6363,20.0
+2026-02-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,81.2463,20.0
+2026-02-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,83.3113,45.0
+2026-02-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,79.815,20.0
+2026-02-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,79.0475,20.0
+2026-02-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,81.4875,20.0
+2026-02-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,79.42,45.0
+2026-03-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,77.385,-23.0
+2026-03-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,70.6763,-23.0
+2026-03-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,74.8825,60.0
+2026-03-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,70.6988,-23.0
+2026-03-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,65.9163,-7.0
+2026-03-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,73.5913,7.0
+2026-03-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,77.3613,60.0
+2026-03-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,81.9287,21.0
+2026-03-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,77.3525,60.0
+2026-03-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,82.7025,60.0
+2026-03-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,87.9538,41.0
+2026-03-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,90.0213,83.0
+2026-03-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,94.2113,53.0
+2026-03-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,96.5113,83.0
+2026-03-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,88.7138,80.0
+2026-03-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,87.8113,24.0
+2026-03-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,87.81,51.0
+2026-03-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,84.7325,-3.0
+2026-03-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,75.3963,15.0
+2026-03-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,76.9788,69.0
+2026-03-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,71.5625,-12.0
+2026-03-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,79.4175,5.0
+2026-04-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,86.5913,59.0
+2026-04-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,87.6988,32.0
+2026-04-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,90.5788,52.0
+2026-04-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,88.85,5.0
+2026-04-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,97.6125,62.0
+2026-04-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,106.4463,62.0
+2026-04-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,106.4713,62.0
+2026-04-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,119.0625,62.0
+2026-04-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,118.0575,62.0
+2026-04-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,111.465,62.0
+2026-04-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,114.9338,62.0
+2026-04-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,115.1238,62.0
+2026-04-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,114.1275,62.0
+2026-04-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,112.9363,53.0
+2026-04-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,122.3838,53.0
+2026-04-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,116.5538,8.0
+2026-04-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,123.7375,-15.0
+2026-04-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,133.775,14.0
+2026-04-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,125.2938,7.0
+2026-04-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,133.0263,-6.0
+2026-04-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,137.0638,-7.0
+2026-05-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,148.375,-28.0
+2026-05-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,156.9825,-18.0
+2026-05-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,175.79,65.0
+2026-05-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,176.2475,46.0
+2026-05-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,167.495,54.0
+2026-05-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,195.2925,75.0
+2026-05-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,193.445,81.0
+2026-05-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,181.5025,51.0
+2026-05-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,180.9038,81.0
+2026-05-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,172.84,51.0
+2026-05-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,175.9512,24.0
+2026-05-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,166.6263,-19.0
+2026-05-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,172.9113,-28.0
+2026-05-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,174.07,8.0
+2026-05-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,192.78,24.0
+2026-05-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,184.8363,34.0
+2026-05-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,198.6938,60.0
+2026-05-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,198.7425,21.0
+2026-05-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,205.205,50.0
+2026-05-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,211.8725,31.0
+2026-06-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,220.1788,40.0
+2026-06-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,214.545,51.0
+2026-06-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,228.9375,53.0
+2026-06-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,219.96,80.0
+2026-06-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,194.915,42.0
+2026-06-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,205.25,98.0
+2026-06-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,205.8175,76.0
+2026-06-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,205.4038,76.0
+2026-06-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,235.1888,83.0
+2026-06-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,247.5125,83.0
+2026-06-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,263.4825,43.0
+2026-06-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,248.9438,34.0
+2026-06-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,244.85,-1.0
+2026-06-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,273.0938,-2.0
+2026-06-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,284.2163,91.0
+2026-06-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,245.45,62.0
+2026-06-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,239.3075,67.0
+2026-06-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,291.875,75.0
+2026-06-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,261.3388,38.0
+2026-06-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,256.2988,85.0
+2026-06-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,284.2163,75.0
+2026-07-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,254.0275,82.0
+2026-07-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,218.125,42.0
+2026-07-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,218.0538,-1.0
+2026-07-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,202.2125,-1.0
+2026-07-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,215.8975,-12.0
+2026-07-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,232.2838,-12.0
+2026-07-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,239.49,42.0
+2026-07-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,209.2463,-1.0
+2026-07-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,219.7275,-12.0
+2026-07-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,201.875,-38.0
+2026-07-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,176.385,-38.0
+2026-07-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,169.3525,-38.0
+2026-07-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,173.8688,-13.0
+2026-07-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,198.675,0.0
+2026-07-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,199.9088,0.0
+2026-07-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,201.2913,0.0
+2026-07-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,179.57,14.0
+2026-07-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,159.7788,-48.0
+2026-07-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,137.0125,-48.0
+2026-07-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,126.9863,-47.0
+2026-07-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,159.995,0.0
+2026-07-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,151.8538,0.0
+2026-08-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,161.0038,14.0
+2026-08-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,178.4525,53.0
+2026-08-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,168.8125,14.0
+2026-08-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,157.3225,14.0
+2026-08-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,151.5263,14.0
+2026-08-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,154.74,14.0
+2026-08-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,158.8813,-38.0
+2026-08-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,168.0363,34.0
+2026-08-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,191.0137,26.0
+2026-08-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,205.1387,21.0
+2026-08-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,223.3563,30.0
+2026-08-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,203.2225,39.0
+2026-08-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,196.1087,42.0
+2026-08-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,200.0775,29.0
+2026-08-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,199.51,10.0
+2026-08-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,186.64,0.0
+2026-08-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,185.0963,-9.0
+2026-08-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,187.4212,-16.0
+2026-08-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,185.6188,17.0
+2026-08-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,185.6225,6.0
+2026-08-31,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,195.8375,-9.0
+2026-09-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,192.1087,-14.0
+2026-09-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,194.175,-24.0
+2026-09-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,194.3738,-24.0
+2026-09-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,217.5,-31.0
+2026-09-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,217.2488,-31.0
+2026-09-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,220.5213,0.0
+2026-09-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,211.5738,0.0
+2026-09-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,204.1688,-15.0
+2026-09-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,193.9988,0.0
+2026-09-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,191.3619,-4.0
+2026-09-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,189.9963,30.0
+2026-09-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,201.7988,53.0
+2026-09-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,223.9775,0.0
+2026-09-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,220.83,29.0
+2026-09-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,235.88,29.0
+2026-09-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,227.0713,29.0
+2026-09-24,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,219.2025,-22.0
+2026-09-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,222.225,-22.0
+2026-09-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,214.1113,0.0
+2026-09-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,216.22,0.0
+2026-09-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,217.4863,29.0
+2026-10-01,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,223.4613,-2.0
+2026-10-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,214.9988,17.0
+2026-10-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,213.02,26.0
+2026-10-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,207.5575,26.0
+2026-10-07,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,211.5525,26.0
+2026-10-08,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,201.1825,8.0
+2026-10-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,197.7275,8.0
+2026-10-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,185.9163,8.0
+2026-10-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,185.2913,45.0
+2026-10-14,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,175.4175,15.0
+2026-10-15,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,174.3538,-63.0
+2026-10-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,162.4125,-35.0
+2026-10-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,171.39,3.0
+2026-10-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,170.6725,3.0
+2026-10-21,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,172.2775,3.0
+2026-10-22,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,157.6163,-35.0
+2026-10-23,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,154.7538,-35.0
+2026-10-26,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,156.9475,17.0
+2026-10-27,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,163.105,47.0
+2026-10-28,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,175.5963,47.0
+2026-10-29,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,166.2563,55.0
+2026-10-30,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,143.8613,31.0
+2026-11-02,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,134.385,-23.0
+2026-11-03,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,140.815,31.0
+2026-11-04,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,129.675,-53.0
+2026-11-05,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,100.8037,-53.0
+2026-11-06,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,104.3825,-53.0
+2026-11-09,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,110.8138,-53.0
+2026-11-10,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,107.4988,0.0
+2026-11-11,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,122.2113,0.0
+2026-11-12,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,117.1825,0.0
+2026-11-13,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,110.6263,0.0
+2026-11-16,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,101.1388,0.0
+2026-11-17,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,99.655,-31.0
+2026-11-18,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,97.0275,0.0
+2026-11-19,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,94.395,0.0
+2026-11-20,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,79.24,-0.0
 2025-10-01,SNPS,"SYNOPSYS, INC.",Information Technology,Information Technology,488.7799987792969,-22.0
 2025-10-02,SNPS,"SYNOPSYS, INC.",Information Technology,Information Technology,471.1499938964844,8.0
 2025-10-03,SNPS,"SYNOPSYS, INC.",Information Technology,Information Technology,469.1700134277344,8.0
@@ -153845,13 +153845,13 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-05,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,466.53,-16.0
 2026-11-06,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,460.99,11.0
 2026-11-09,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,506.14,-31.0
-2026-11-10,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,501.62,-0.0
+2026-11-10,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,501.62,0.0
 2026-11-11,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,551.72,0.0
 2026-11-12,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,545.14,0.0
 2026-11-13,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,528.29,0.0
-2026-11-16,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,499.0,-0.0
-2026-11-17,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,504.4,-0.0
-2026-11-18,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,515.9,-0.0
+2026-11-16,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,499.0,0.0
+2026-11-17,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,504.4,0.0
+2026-11-18,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,515.9,0.0
 2026-11-19,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,521.39,0.0
 2026-11-20,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,457.01,-0.0
 2025-10-01,STZ,"CONSTELLATION BRANDS, INC.",Consumer Staples,Consumer Staples,138.9499969482422,-20.0
@@ -156139,9 +156139,9 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-22,T,AT&T INC.,Communication Services,Communication Services,22.765,-55.0
 2026-10-23,T,AT&T INC.,Communication Services,Communication Services,20.93,-1.0
 2026-10-26,T,AT&T INC.,Communication Services,Communication Services,20.85,-17.0
-2026-10-27,T,AT&T INC.,Communication Services,Communication Services,20.94,-0.0
-2026-10-28,T,AT&T INC.,Communication Services,Communication Services,20.7,-0.0
-2026-10-29,T,AT&T INC.,Communication Services,Communication Services,20.92,-0.0
+2026-10-27,T,AT&T INC.,Communication Services,Communication Services,20.94,0.0
+2026-10-28,T,AT&T INC.,Communication Services,Communication Services,20.7,0.0
+2026-10-29,T,AT&T INC.,Communication Services,Communication Services,20.92,0.0
 2026-10-30,T,AT&T INC.,Communication Services,Communication Services,21.41,0.0
 2026-11-02,T,AT&T INC.,Communication Services,Communication Services,21.44,-28.0
 2026-11-03,T,AT&T INC.,Communication Services,Communication Services,21.39,-28.0
@@ -158741,14 +158741,14 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-05,TER,"TERADYNE, INC.",Information Technology,Information Technology,212.74,-13.0
 2026-11-06,TER,"TERADYNE, INC.",Information Technology,Information Technology,218.215,-38.0
 2026-11-09,TER,"TERADYNE, INC.",Information Technology,Information Technology,246.0,-9.0
-2026-11-10,TER,"TERADYNE, INC.",Information Technology,Information Technology,245.4,-0.0
+2026-11-10,TER,"TERADYNE, INC.",Information Technology,Information Technology,245.4,0.0
 2026-11-11,TER,"TERADYNE, INC.",Information Technology,Information Technology,265.78,0.0
 2026-11-12,TER,"TERADYNE, INC.",Information Technology,Information Technology,263.75,0.0
 2026-11-13,TER,"TERADYNE, INC.",Information Technology,Information Technology,249.55,-9.0
 2026-11-16,TER,"TERADYNE, INC.",Information Technology,Information Technology,231.9,-31.0
 2026-11-17,TER,"TERADYNE, INC.",Information Technology,Information Technology,234.18,-31.0
 2026-11-18,TER,"TERADYNE, INC.",Information Technology,Information Technology,235.21,-31.0
-2026-11-19,TER,"TERADYNE, INC.",Information Technology,Information Technology,227.43,-0.0
+2026-11-19,TER,"TERADYNE, INC.",Information Technology,Information Technology,227.43,0.0
 2026-11-20,TER,"TERADYNE, INC.",Information Technology,Information Technology,204.775,0.0
 2025-10-01,TFC,TRUIST FINANCIAL ,Financials,Financials,45.56999969482422,2.0
 2025-10-02,TFC,TRUIST FINANCIAL ,Financials,Financials,45.36000061035156,11.0
@@ -161325,7 +161325,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-10-26,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,146.93,-6.0
 2026-10-27,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,146.83,2.0
 2026-10-28,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,148.08,23.0
-2026-10-29,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,147.29,-0.0
+2026-10-29,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,147.29,0.0
 2026-10-30,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,156.44,0.0
 2026-11-02,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,160.15,-63.0
 2026-11-03,TMUS,"T-MOBILE US, INC.",Communication Services,Communication Services,154.41,-49.0
@@ -161909,11 +161909,11 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-05,TPL,TEXAS PACIFIC LAND ,Energy,Energy,272.18,-53.0
 2026-11-06,TPL,TEXAS PACIFIC LAND ,Energy,Energy,272.36,-34.0
 2026-11-09,TPL,TEXAS PACIFIC LAND ,Energy,Energy,278.28,-34.0
-2026-11-10,TPL,TEXAS PACIFIC LAND ,Energy,Energy,274.63,-0.0
-2026-11-11,TPL,TEXAS PACIFIC LAND ,Energy,Energy,281.42,-0.0
-2026-11-12,TPL,TEXAS PACIFIC LAND ,Energy,Energy,281.18,-0.0
-2026-11-13,TPL,TEXAS PACIFIC LAND ,Energy,Energy,291.91,-0.0
-2026-11-16,TPL,TEXAS PACIFIC LAND ,Energy,Energy,292.16,-0.0
+2026-11-10,TPL,TEXAS PACIFIC LAND ,Energy,Energy,274.63,0.0
+2026-11-11,TPL,TEXAS PACIFIC LAND ,Energy,Energy,281.42,0.0
+2026-11-12,TPL,TEXAS PACIFIC LAND ,Energy,Energy,281.18,0.0
+2026-11-13,TPL,TEXAS PACIFIC LAND ,Energy,Energy,291.91,0.0
+2026-11-16,TPL,TEXAS PACIFIC LAND ,Energy,Energy,292.16,0.0
 2026-11-17,TPL,TEXAS PACIFIC LAND ,Energy,Energy,287.84,-12.0
 2026-11-18,TPL,TEXAS PACIFIC LAND ,Energy,Energy,285.9,-12.0
 2026-11-19,TPL,TEXAS PACIFIC LAND ,Energy,Energy,277.72,-37.0
@@ -173140,7 +173140,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-04,VLO,VALERO ENERGY ,Energy,Energy,365.34,-11.0
 2026-11-05,VLO,VALERO ENERGY ,Energy,Energy,351.23,-32.0
 2026-11-06,VLO,VALERO ENERGY ,Energy,Energy,346.45,-32.0
-2026-11-09,VLO,VALERO ENERGY ,Energy,Energy,356.75,-0.0
+2026-11-09,VLO,VALERO ENERGY ,Energy,Energy,356.75,0.0
 2026-11-10,VLO,VALERO ENERGY ,Energy,Energy,350.71,0.0
 2026-11-11,VLO,VALERO ENERGY ,Energy,Energy,363.71,0.0
 2026-11-12,VLO,VALERO ENERGY ,Energy,Energy,374.95,0.0
@@ -178043,7 +178043,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,295.65,0.0
 2026-11-16,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,280.93,6.0
 2026-11-17,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,283.33,-5.0
-2026-11-18,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,288.19,-0.0
+2026-11-18,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,288.19,0.0
 2026-11-19,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,296.78,0.0
 2026-11-20,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,261.11,-0.0
 2025-10-01,WEAT,TEUCRIUM:WHEAT,,Commodities,20.64999961853027,-34.0
@@ -179767,7 +179767,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-09,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,66.45,55.0
 2026-11-10,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,67.46,0.0
 2026-11-11,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,68.92,0.0
-2026-11-12,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,69.44,-0.0
+2026-11-12,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,69.44,0.0
 2026-11-13,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,69.09,-22.0
 2026-11-16,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,67.61,-12.0
 2026-11-17,WMB,"THE WILLIAMS COMPANIES, INC.",Energy,Energy,67.46,-2.0
@@ -182651,8 +182651,8 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-13,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,52.23,3.0
 2026-11-16,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,51.47,-25.0
 2026-11-17,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,50.84,-10.0
-2026-11-18,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,50.46,-0.0
-2026-11-19,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,49.42,-0.0
+2026-11-18,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,50.46,0.0
+2026-11-19,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,49.42,0.0
 2026-11-20,XLB,SEL SECTOR:MATRLS SPDR,,Sector & Style ETFs,48.34,52.0
 2025-10-01,XLC,SEL SECTOR:COMM SVC SPDR,,Sector & Style ETFs,116.7099990844727,-9.0
 2025-10-02,XLC,SEL SECTOR:COMM SVC SPDR,,Sector & Style ETFs,116.4499969482422,-9.0
@@ -186684,7 +186684,7 @@ Date,Ticker,Ticker_name,Exposure,Category,Close,model_score
 2026-11-16,XYZ,"BLOCK, INC.",Financials,Financials,82.96,-17.0
 2026-11-17,XYZ,"BLOCK, INC.",Financials,Financials,79.31,-25.0
 2026-11-18,XYZ,"BLOCK, INC.",Financials,Financials,79.01,-34.0
-2026-11-19,XYZ,"BLOCK, INC.",Financials,Financials,74.23,-0.0
+2026-11-19,XYZ,"BLOCK, INC.",Financials,Financials,74.23,0.0
 2026-11-20,XYZ,"BLOCK, INC.",Financials,Financials,69.66,-10.0
 2025-10-01,YUM,"YUM! BRANDS, INC.",Consumer Discretionary,Consumer Discretionary,153.1900024414062,-33.0
 2025-10-02,YUM,"YUM! BRANDS, INC.",Consumer Discretionary,Consumer Discretionary,151.3500061035156,-16.0
