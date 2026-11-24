@@ -1,11 +1,11 @@
 Ticker,Ticker_name,Category,Date,volume
-NVDA,NVIDIA ,Information Technology,2026-11-20,633.42
-INTC,INTEL ,Information Technology,2026-11-20,208.74
-SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-20,151.41
-QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-20,134.75
-SNDK,SANDISK CORPORATION,Information Technology,2026-11-20,127.86
-XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-11-20,81.85
-AAPL,APPLE INC.,Information Technology,2026-11-20,80.69
-AMZN,"AMAZON.COM, INC.",Consumer Discretionary,2026-11-20,74.36
-AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-11-20,70.28
-NFLX,"NETFLIX, INC.",Communication Services,2026-11-20,68.84
+NVDA,NVIDIA ,Information Technology,2026-11-23,782.59
+INTC,INTEL ,Information Technology,2026-11-23,165.25
+SNDK,SANDISK CORPORATION,Information Technology,2026-11-23,114.03
+SPY,SPDR S&P 500 ETF,Sector & Style ETFs,2026-11-23,88.28
+QQQ,INVESCO QQQ TRUST 1,Sector & Style ETFs,2026-11-23,85.33
+SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,2026-11-23,62.56
+F,FORD MOTOR COMPANY,Consumer Discretionary,2026-11-23,59.55
+XLF,SEL SECTOR:FINL S SPDR,Sector & Style ETFs,2026-11-23,58.94
+AAPL,APPLE INC.,Information Technology,2026-11-23,58.59
+AMD,"ADVANCED MICRO DEVICES, INC.",Information Technology,2026-11-23,54.0
