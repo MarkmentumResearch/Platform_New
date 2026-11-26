@@ -404,7 +404,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score
 2026-11-25,MSI,"MOTOROLA SOLUTIONS, INC.",Information Technology,Information Technology,-43.0
 2026-11-25,MTB,M&T BANK ,Financials,Financials,-18.0
 2026-11-25,MTD,METTLER-TOLEDO INTERNATIONAL INC.,Health Care,Health Care,13.0
-2026-11-25,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,-0.0
+2026-11-25,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,-16.0
 2026-11-25,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,-0.0
 2026-11-25,MUB,ISHARES:NATL MUNI BOND,,Bonds,-28.0
 2026-11-25,NCLH,NORWEGIAN CRUISE LINE HOLDINGS LTD.,Consumer Discretionary,Consumer Discretionary,-17.0
@@ -478,7 +478,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score
 2026-11-25,QAT,ISHARES:MSCI QATAR,,Foreign,-61.0
 2026-11-25,QCOM,QUALCOMM INC.,Information Technology,Information Technology,8.0
 2026-11-25,QQQ,INVESCO QQQ TRUST 1,,Sector & Style ETFs,-14.0
-2026-11-25,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,-0.0
+2026-11-25,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,30.0
 2026-11-25,RCL,ROYAL CARIBBEAN CRUISES LTD.,Consumer Discretionary,Consumer Discretionary,-15.0
 2026-11-25,RDDT,"REDDIT, INC.",Communication Services,Communication Services,-34.0
 2026-11-25,REG,REGENCY CENTERS ,Real Estate,Real Estate,-75.0

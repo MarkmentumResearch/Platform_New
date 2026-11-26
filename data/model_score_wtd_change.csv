@@ -8,7 +8,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,ACN,ACCENTURE PUBLIC LIMITED COMPANY,Information Technology,Information Technology,-30.0,-1.0,29.0
 2026-11-25,ADBE,ADOBE INC.,Information Technology,Information Technology,-6.0,-15.0,-9.0
 2026-11-25,ADI,"ANALOG DEVICES, INC.",Information Technology,Information Technology,-17.0,-29.0,-12.0
-2026-11-25,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,0.0,0.0,-0.0
+2026-11-25,ADM,ARCHER-DANIELS-MIDLAND COMPANY.,Consumer Staples,Consumer Staples,0.0,0.0,0.0
 2026-11-25,ADP,"AUTOMATIC DATA PROCESSING, INC.",Industrials,Industrials,-84.0,-64.0,20.0
 2026-11-25,ADSK,"AUTODESK, INC.",Information Technology,Information Technology,7.0,-24.0,-31.0
 2026-11-25,AEE,AMEREN ,Utilities,Utilities,-4.0,-23.0,-19.0
@@ -72,7 +72,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,BSX,BOSTON SCIENTIFIC ,Health Care,Health Care,-46.0,-68.0,-22.0
 2026-11-25,BTC=F,BITCOIN FUTURES,,Futures,21.0,-0.0,-21.0
 2026-11-25,BTI,BRITISH AMERICAN TOBACCO P.L.C.,,MR Discretion,-5.0,-15.0,-10.0
-2026-11-25,BTU,PEABODY ENERGY ,,MR Discretion,0.0,0.0,-0.0
+2026-11-25,BTU,PEABODY ENERGY ,,MR Discretion,0.0,0.0,0.0
 2026-11-25,BX,BLACKSTONE INC,Financials,Financials,-22.0,-96.0,-74.0
 2026-11-25,BXP,"BOSTON PROPERTIES, INC.",Real Estate,Real Estate,-31.0,-78.0,-47.0
 2026-11-25,C,CITIGROUP INC.,Financials,Financials,7.0,18.0,11.0
@@ -98,7 +98,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,CHRW,"C.H. ROBINSON WORLDWIDE, INC.",Industrials,Industrials,-48.0,-63.0,-15.0
 2026-11-25,CHTR,"CHARTER COMMUNICATIONS, INC.",Communication Services,Communication Services,12.0,-56.0,-68.0
 2026-11-25,CI,THE CIGNA GROUP,Health Care,Health Care,28.0,39.0,11.0
-2026-11-25,CIEN,CIENA CORPORATION,Information Technology,Information Technology,0.0,-0.0,-0.0
+2026-11-25,CIEN,CIENA CORPORATION,Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-25,CINF,CINCINNATI FINANCIAL ,Financials,Financials,-11.0,-61.0,-50.0
 2026-11-25,CL,COLGATE-PALMOLIVE COMPANY,Consumer Staples,Consumer Staples,-26.0,-72.0,-46.0
 2026-11-25,CLX,THE CLOROX COMPANY,Consumer Staples,Consumer Staples,1.0,-67.0,-68.0
@@ -135,7 +135,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,CSX,CSX ,Industrials,Industrials,-21.0,8.0,29.0
 2026-11-25,CTAS,CINTAS ,Industrials,Industrials,-66.0,-58.0,8.0
 2026-11-25,CTSH,COGNIZANT TECHNOLOGY SOLUTIONS ,Information Technology,Information Technology,-17.0,-31.0,-14.0
-2026-11-25,CTVA,"CORTEVA, INC.",Materials,Materials,0.0,-0.0,-0.0
+2026-11-25,CTVA,"CORTEVA, INC.",Materials,Materials,-0.0,-0.0,0.0
 2026-11-25,CVNA,CARVANA CO.,Consumer Discretionary,Consumer Discretionary,-10.0,-63.0,-53.0
 2026-11-25,CVS,CVS HEALTH ,Health Care,Health Care,65.0,55.0,-10.0
 2026-11-25,CVX,CHEVRON ,Energy,Energy,91.0,61.0,-30.0
@@ -172,7 +172,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,DXCM,"DEXCOM, INC.",Health Care,Health Care,2.0,-5.0,-7.0
 2026-11-25,DXY,US DOLLAR INDEX,USD,Indices,21.0,-27.0,-48.0
 2026-11-25,EBAY,EBAY INC.,Consumer Discretionary,Consumer Discretionary,0.0,18.0,18.0
-2026-11-25,EC,ECOPETROL SA,,MR Discretion,0.0,0.0,-0.0
+2026-11-25,EC,ECOPETROL SA,,MR Discretion,0.0,0.0,0.0
 2026-11-25,ECH,ISHARES:MSCI CHILE,,Foreign,-21.0,25.0,46.0
 2026-11-25,ECHO,ECHOSTAR CORPORATION,Communication Services,Communication Services,9.0,-25.0,-34.0
 2026-11-25,ECL,ECOLAB INC.,Materials,Materials,-51.0,-70.0,-19.0
@@ -247,7 +247,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,FIX,"COMFORT SYSTEMS USA, INC.",Industrials,Industrials,31.0,37.0,6.0
 2026-11-25,FLEX,FLEX LTD.,Information Technology,Information Technology,19.0,30.0,11.0
 2026-11-25,FOXA,FOX ,Communication Services,Communication Services,-35.0,-39.0,-4.0
-2026-11-25,FRO,FRONTLINE PLC,,MR Discretion,5.0,5.0,-0.0
+2026-11-25,FRO,FRONTLINE PLC,,MR Discretion,5.0,5.0,0.0
 2026-11-25,FRT,FEDERAL REALTY INVESTMENT TRUST,Real Estate,Real Estate,-22.0,-28.0,-6.0
 2026-11-25,FSLR,"FIRST SOLAR, INC.",Information Technology,Information Technology,-20.0,18.0,38.0
 2026-11-25,FTI,TECHNIPFMC PLC,,MR Discretion,40.0,24.0,-16.0
@@ -334,7 +334,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,J,JACOBS SOLUTIONS INC.,Industrials,Industrials,15.0,2.0,-13.0
 2026-11-25,JBHT,"J. B. HUNT TRANSPORT SERVICES, INC.",Industrials,Industrials,-20.0,3.0,23.0
 2026-11-25,JBL,JABIL INC.,Information Technology,Information Technology,23.0,34.0,11.0
-2026-11-25,JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,Industrials,0.0,0.0,-0.0
+2026-11-25,JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,Industrials,0.0,0.0,0.0
 2026-11-25,JKHY,"JACK HENRY & ASSOCIATES, INC.",Financials,Financials,-25.0,-74.0,-49.0
 2026-11-25,JMKE,JERSEY MIKE'S SUBS INC.,,MR Discretion,-5.0,-6.0,-1.0
 2026-11-25,JNJ,JOHNSON & JOHNSON,Health Care,Health Care,13.0,11.0,-2.0
@@ -358,7 +358,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,LHX,"L3HARRIS TECHNOLOGIES, INC.",Industrials,Industrials,-32.0,-5.0,27.0
 2026-11-25,LII,LENNOX INTERNATIONAL INC.,Industrials,Industrials,-57.0,-53.0,4.0
 2026-11-25,LIN,LINDE PUBLIC LIMITED COMPANY,Materials,Materials,-26.0,-3.0,23.0
-2026-11-25,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,0.0,0.0,-0.0
+2026-11-25,LITE,LUMENTUM HOLDINGS INC.,Information Technology,Information Technology,0.0,0.0,0.0
 2026-11-25,LLY,ELI LILLY AND COMPANY,Health Care,Health Care,13.0,18.0,5.0
 2026-11-25,LMT,LOCKHEED MARTIN ,Industrials,Industrials,21.0,34.0,13.0
 2026-11-25,LNT,ALLIANT ENERGY ,Utilities,Utilities,-5.0,-67.0,-62.0
@@ -404,8 +404,8 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,MSI,"MOTOROLA SOLUTIONS, INC.",Information Technology,Information Technology,-15.0,-43.0,-28.0
 2026-11-25,MTB,M&T BANK ,Financials,Financials,-43.0,-18.0,25.0
 2026-11-25,MTD,METTLER-TOLEDO INTERNATIONAL INC.,Health Care,Health Care,0.0,13.0,13.0
-2026-11-25,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,0.0,-0.0,-0.0
-2026-11-25,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,0.0,-0.0,-0.0
+2026-11-25,MTUM,ISHARES:MSCI USA MOM FCT,,Sector & Style ETFs,-16.0,-16.0,0.0
+2026-11-25,MU,"MICRON TECHNOLOGY, INC.",Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-25,MUB,ISHARES:NATL MUNI BOND,,Bonds,-18.0,-28.0,-10.0
 2026-11-25,NCLH,NORWEGIAN CRUISE LINE HOLDINGS LTD.,Consumer Discretionary,Consumer Discretionary,-15.0,-17.0,-2.0
 2026-11-25,NDAQ,"NASDAQ, INC.",Financials,Financials,-36.0,-31.0,5.0
@@ -426,9 +426,9 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,NTAP,"NETAPP, INC.",Information Technology,Information Technology,-7.0,34.0,41.0
 2026-11-25,NTRS,NORTHERN TRUST ,Financials,Financials,-18.0,23.0,41.0
 2026-11-25,NUE,NUCOR ,Materials,Materials,23.0,84.0,61.0
-2026-11-25,NVDA,NVIDIA ,Information Technology,Information Technology,0.0,0.0,-0.0
+2026-11-25,NVDA,NVIDIA ,Information Technology,Information Technology,0.0,0.0,0.0
 2026-11-25,NVR,"NVR, INC.",Consumer Discretionary,Consumer Discretionary,-73.0,-65.0,8.0
-2026-11-25,NWSA,NEWS CORP.,Communication Services,Communication Services,0.0,-0.0,-0.0
+2026-11-25,NWSA,NEWS CORP.,Communication Services,Communication Services,-0.0,-0.0,0.0
 2026-11-25,NXPI,NXP SEMICONDUCTORS NV,Information Technology,Information Technology,-26.0,2.0,28.0
 2026-11-25,O,REALTY INCOME ,Real Estate,Real Estate,-9.0,-40.0,-31.0
 2026-11-25,ODFL,"OLD DOMINION FREIGHT LINE, INC.",Industrials,Industrials,-40.0,-22.0,18.0
@@ -444,7 +444,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,PAM,PAMPA ENERGIA SA,,MR Discretion,-22.0,-13.0,9.0
 2026-11-25,PANW,"PALO ALTO NETWORKS, INC.",Information Technology,Information Technology,-21.0,53.0,74.0
 2026-11-25,PAYX,"PAYCHEX, INC.",Industrials,Industrials,-23.0,-66.0,-43.0
-2026-11-25,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,0.0,0.0,-0.0
+2026-11-25,PBR,BRAZILIAN PETROLEUM  - PETROBRAS,,MR Discretion,0.0,0.0,0.0
 2026-11-25,PCAR,PACCAR INC,Industrials,Industrials,-54.0,-19.0,35.0
 2026-11-25,PCG,PG&E ,Utilities,Utilities,26.0,-9.0,-35.0
 2026-11-25,PEG,PUBLIC SERVICE ENTERPRISE GROUP INC.,Utilities,Utilities,39.0,-7.0,-46.0
@@ -458,7 +458,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,PHM,"PULTEGROUP, INC.",Consumer Discretionary,Consumer Discretionary,7.0,-57.0,-64.0
 2026-11-25,PKG,PACKAGING  OF AMERICA,Materials,Materials,56.0,74.0,18.0
 2026-11-25,PLD,"PROLOGIS, INC.",Real Estate,Real Estate,-56.0,-47.0,9.0
-2026-11-25,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,0.0,-0.0,-0.0
+2026-11-25,PLTR,PALANTIR TECHNOLOGIES INC.,Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-25,PM,PHILIP MORRIS INTERNATIONAL INC.,Consumer Staples,Consumer Staples,0.0,-18.0,-18.0
 2026-11-25,PNC,"THE PNC FINANCIAL SERVICES GROUP, INC.",Financials,Financials,-57.0,-34.0,23.0
 2026-11-25,PNR,PENTAIR PUBLIC LIMITED COMPANY,Industrials,Industrials,27.0,-43.0,-70.0
@@ -478,7 +478,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,QAT,ISHARES:MSCI QATAR,,Foreign,0.0,-61.0,-61.0
 2026-11-25,QCOM,QUALCOMM INC.,Information Technology,Information Technology,-24.0,8.0,32.0
 2026-11-25,QQQ,INVESCO QQQ TRUST 1,,Sector & Style ETFs,-25.0,-14.0,11.0
-2026-11-25,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,0.0,-0.0,-0.0
+2026-11-25,QUAL,ISHARES:MSCI USA QF,,Sector & Style ETFs,30.0,30.0,0.0
 2026-11-25,RCL,ROYAL CARIBBEAN CRUISES LTD.,Consumer Discretionary,Consumer Discretionary,-23.0,-15.0,8.0
 2026-11-25,RDDT,"REDDIT, INC.",Communication Services,Communication Services,5.0,-34.0,-39.0
 2026-11-25,REG,REGENCY CENTERS ,Real Estate,Real Estate,-49.0,-75.0,-26.0
@@ -505,7 +505,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,SD,"SANDRIDGE ENERGY, INC.",,MR Discretion,38.0,0.0,-38.0
 2026-11-25,SDY,SPDR S&P DIVIDEND,,Sector & Style ETFs,-19.0,-19.0,0.0
 2026-11-25,SHW,THE SHERWIN-WILLIAMS COMPANY,Materials,Materials,-61.0,-68.0,-7.0
-2026-11-25,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,-19.0,-19.0,-0.0
+2026-11-25,SHY,ISHARES:1-3 TRS BD ETF,Bonds,Bonds,-19.0,-19.0,0.0
 2026-11-25,SILJ,ETFMG PRIME JR SILVR MNR,,Commodities,28.0,23.0,-5.0
 2026-11-25,SJM,THE J. M. SMUCKER COMPANY,Consumer Staples,Consumer Staples,-13.0,-14.0,-1.0
 2026-11-25,SKYD,PARAMOUNT SKYDANCE ,Communication Services,Communication Services,-27.0,-13.0,14.0
@@ -515,7 +515,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,SMCI,"SUPER MICRO COMPUTER, INC.",Information Technology,Information Technology,11.0,-0.0,-11.0
 2026-11-25,SMH,VANECK:SEMICONDUCTOR,,Sector & Style ETFs,38.0,-0.0,-38.0
 2026-11-25,SNA,SNAP-ON INC.,Industrials,Industrials,-52.0,-24.0,28.0
-2026-11-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,0.0,-0.0,-0.0
+2026-11-25,SNDK,SANDISK CORPORATION,Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-25,SNPS,"SYNOPSYS, INC.",Information Technology,Information Technology,19.0,41.0,22.0
 2026-11-25,SO,THE SOUTHERN COMPANY,Utilities,Utilities,8.0,-19.0,-27.0
 2026-11-25,SOLV,SOLVENTUM ,Health Care,Health Care,-61.0,-53.0,8.0
@@ -533,7 +533,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,STLD,"STEEL DYNAMICS, INC.",Materials,Materials,-25.0,0.0,25.0
 2026-11-25,STNG,SCORPIO TANKERS INC.,,MR Discretion,62.0,54.0,-8.0
 2026-11-25,STT,STATE STREET ,Financials,Financials,39.0,64.0,25.0
-2026-11-25,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,0.0,-0.0,-0.0
+2026-11-25,STX,SEAGATE TECHNOLOGY HOLDINGS,Information Technology,Information Technology,-0.0,-0.0,0.0
 2026-11-25,STZ,"CONSTELLATION BRANDS, INC.",Consumer Staples,Consumer Staples,-20.0,-67.0,-47.0
 2026-11-25,SW,SMURFIT WESTROCK PUBLIC LIMITED COMPANY,Materials,Materials,-56.0,-43.0,13.0
 2026-11-25,SWK,"STANLEY BLACK & DECKER, INC.",Industrials,Industrials,11.0,-15.0,-26.0
@@ -617,7 +617,7 @@ Date,Ticker,Ticker_name,Exposure,Category,model_score_wtd_change,current_model_s
 2026-11-25,WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIES ,Industrials,Industrials,-38.0,-25.0,13.0
 2026-11-25,WAT,WATERS ,Health Care,Health Care,-11.0,0.0,11.0
 2026-11-25,WDAY,"WORKDAY, INC.",Information Technology,Information Technology,10.0,14.0,4.0
-2026-11-25,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,0.0,0.0,-0.0
+2026-11-25,WDC,WESTERN DIGITAL ,Information Technology,Information Technology,0.0,0.0,0.0
 2026-11-25,WEAT,TEUCRIUM:WHEAT,,Commodities,13.0,38.0,25.0
 2026-11-25,WEC,"WEC ENERGY GROUP, INC.",Utilities,Utilities,44.0,-40.0,-84.0
 2026-11-25,WELL,WELLTOWER INC.,Real Estate,Real Estate,-15.0,-58.0,-43.0

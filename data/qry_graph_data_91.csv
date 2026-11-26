@@ -1,5 +1,5 @@
 Category,Buy,Neutral,Sell,Total,Buy_Pct,Neutral_Pct,Sell_Pct
-Sector & Style ETFs,0,16,11,27,0.0,59.3,40.7
+Sector & Style ETFs,0,15,12,27,0.0,55.6,44.4
 Indices,0,3,2,5,0.0,60.0,40.0
 Futures,0,3,0,3,0.0,100.0,0.0
 Currencies,0,6,0,6,0.0,100.0,0.0
@@ -20,4 +20,4 @@ Materials,0,8,18,26,0.0,30.8,69.2
 Real Estate,0,13,17,30,0.0,43.3,56.7
 Utilities,0,29,2,31,0.0,93.5,6.5
 MR Discretion,1,14,22,37,2.7,37.8,59.5
-Total,6,409,238,653,0.9,62.6,36.4
+Total,6,408,239,653,0.9,62.5,36.6
